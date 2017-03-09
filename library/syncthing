@@ -23,8 +23,8 @@ Tags: 0.14.24, 0.14, 0, latest
 GitCommit: 44babbcb75845086b6079eafc7d4368bd72fb6e5
 Directory: 0.14
 
-Tags: 0.14.24-rc.1, 0.14.24-rc, 0.14-rc, rc
-GitCommit: 632b99ea67714596881a560579d77ff37e098edd
+Tags: 0.14.25-rc.2, 0.14.25-rc, 0.14-rc, rc
+GitCommit: d9bd9bd74e82cb589aac7bda8b58c39ee530fd72
 Directory: 0.14-rc
 
 Tags: cli
