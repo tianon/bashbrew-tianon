@@ -1,0 +1,15 @@
+debian-devel
+docker-master
+frakendebian
+jenkins-slave
+network-toolbox
+nylas-n1
+nylas-sync-engine
+plex:media-server
+prometheus:node-exporter
+rawdns (needs "docker build -f")
+syncthing-cli
+syncthing-inotify
+ubuntu-devel
+vmdebootstrap
+wine

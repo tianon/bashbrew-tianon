@@ -1,0 +1,6 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/dockerfiles.git
+
+Tags: latest
+GitCommit: d6d435479900274e105bdfdf2792c26c989f05f6
+Directory: ruby-passenger

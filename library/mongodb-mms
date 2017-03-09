@@ -1,0 +1,6 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/dockerfiles.git
+
+Tags: 5.6.0.364-1, 5.6.0.364, 5.6.0, 5.6, 5, latest
+GitCommit: 5611ddf36001ca35d63e65b5b35d061ab4518c29
+Directory: mongodb-mms

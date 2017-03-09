@@ -1,0 +1,6 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/dockerfiles.git
+
+Tags: 0.8.5, 0.8, 0, latest
+GitCommit: 5611ddf36001ca35d63e65b5b35d061ab4518c29
+Directory: robomongo

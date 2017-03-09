@@ -1,0 +1,6 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/dockerfiles.git
+
+Tags: latest
+GitCommit: cd6e90cf0668753b236bdf7938c5c38dcd62ebe1
+Directory: ruby-unicorn-nginx
