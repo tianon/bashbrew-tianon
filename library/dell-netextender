@@ -1,0 +1,10 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/dockerfiles.git
+
+Tags: 8.5.797, 8.5, 8, latest
+GitCommit: 1ed32018b4bef488317c9a899674548a8248d4ce
+Directory: dell-netextender
+
+Tags: 8.5.797-gui, 8.5-gui, 8-gui, gui
+GitCommit: 6a3dca4b2b4f90b30d2f13349ab6b762692c8161
+Directory: dell-netextender/gui
