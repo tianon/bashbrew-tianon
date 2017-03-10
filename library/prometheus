@@ -4,3 +4,7 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 1.2.1, 1.2, 1, latest
 GitCommit: 5611ddf36001ca35d63e65b5b35d061ab4518c29
 Directory: prometheus
+
+Tags: node-exporter
+GitCommit: 81dd59ed3965e07f43925bf31696ecef11f5c5cf
+Directory: prometheus/node-exporter
