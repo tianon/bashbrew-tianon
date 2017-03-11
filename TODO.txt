@@ -1,5 +1,4 @@
 debian-devel
-docker-master
 frakendebian
 jenkins-slave
 nylas-n1

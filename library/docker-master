@@ -1,0 +1,14 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/dockerfiles.git
+
+Tags: 17.04.0-dev, 17.04.0, 17.04, 17, latest, master
+GitCommit: 638f9731883af92eaf6daa54eb4660f3cf74f6d5
+Directory: docker-master
+
+Tags: 17.04.0-dev-dind, 17.04.0-dind, 17.04-dind, 17-dind, dind, master-dind
+GitCommit: 638f9731883af92eaf6daa54eb4660f3cf74f6d5
+Directory: docker-master/dind
+
+Tags: 17.04.0-dev-git, 17.04.0-git, 17.04-git, 17-git, git, master-git
+GitCommit: 638f9731883af92eaf6daa54eb4660f3cf74f6d5
+Directory: docker-master/git
