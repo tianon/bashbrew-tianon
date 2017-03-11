@@ -9,4 +9,3 @@ syncthing-cli
 syncthing-inotify
 ubuntu-devel
 vmdebootstrap
-wine
