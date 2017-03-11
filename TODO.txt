@@ -2,7 +2,6 @@ debian-devel
 docker-master
 frakendebian
 jenkins-slave
-network-toolbox
 nylas-n1
 nylas-sync-engine
 plex:media-server
