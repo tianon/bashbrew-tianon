@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: latest
-GitCommit: fda7dc34831bfdb7b7929b7e5bf56c21f8025a30
+GitCommit: 3be46faee3d43ce550811f2621b7f53796565fa8
 Directory: qemu
