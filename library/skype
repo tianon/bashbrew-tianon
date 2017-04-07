@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 5.0.0.5, 5.0.0, 5.0, 5, latest
-GitCommit: 7377f4be56dc31488e52a16c1c22fa4dbd9a2031
+Tags: 5.1.0.1, 5.1.0, 5.1, 5, latest
+GitCommit: 1011bc890d51975889e23002378190d79dd05092
 Directory: skype
