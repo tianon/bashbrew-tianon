@@ -27,10 +27,10 @@ Tags: 0.14.27-rc.4, 0.14.27-rc, 0.14-rc, rc
 GitCommit: 721b1734c23446e7ce727b480c15510aac036819
 Directory: 0.14-rc
 
-Tags: cli
-GitCommit: 75be93ec71d3c4a9f74cf9467356c39c608d097e
-Directory: cli
-
 Tags: inotify-0.8.5, inotify-0.8, inotify-0, inotify
 GitCommit: 969b8ff737c4e51a5941efa709b9732de95e9cb5
 Directory: inotify
+
+Tags: utils
+GitCommit: dfd4985ef5bce96b6c1bc43dae9411868abe2dae
+Directory: utils
