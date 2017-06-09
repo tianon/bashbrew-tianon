@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 0.8.2.2, 0.8.2, 0.8, 0, latest
-GitCommit: 3555ad5aff785c05e2014aa4178c5b765d0f5355
+GitCommit: 1d881cd4ab8c8e81502d0ffa15e37de3258f9e19
 Directory: kafka
