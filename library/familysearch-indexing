@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: latest
-GitCommit: 4651c8e65b80e0acc3d2f7df2de980ee28a03c7a
+GitCommit: 5b58c47c7bda28d60a4391360a51eb4d7236b408
 Directory: familysearch-indexing
