@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: latest
-GitCommit: 40de22777daa5cefe4176fb29031f3e07f77c60c
+GitCommit: 7629184af0641e3c9654678378d58920e6d98653
 Directory: mutt-gmail
