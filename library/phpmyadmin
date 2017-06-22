@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 4.7.1, 4.7, 4, latest
-GitCommit: a5bfeeccd48e05cedfc1ff03326b582b63ecc335
+GitCommit: a1ee7121def74879e3b37b10e8461a3ff759fd77
 Directory: phpmyadmin
