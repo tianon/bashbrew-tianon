@@ -30,7 +30,3 @@ Directory: 0.14
 Tags: inotify-0.8.7, inotify-0.8, inotify-0, inotify
 GitCommit: 8c2a92cf126682be44d344c94bf6676d435240cb
 Directory: inotify
-
-Tags: utils
-GitCommit: dfd4985ef5bce96b6c1bc43dae9411868abe2dae
-Directory: utils
