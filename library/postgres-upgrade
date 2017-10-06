@@ -2,61 +2,81 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/docker-postgres-upgrade.git
 
 Tags: 9.1-to-9.2
-GitCommit: 588eba169b3127f10f6c6b8779b6ce64ca7bf7b0
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.1-to-9.2
 
 Tags: 9.1-to-9.3
-GitCommit: 588eba169b3127f10f6c6b8779b6ce64ca7bf7b0
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.1-to-9.3
 
 Tags: 9.1-to-9.4
-GitCommit: 588eba169b3127f10f6c6b8779b6ce64ca7bf7b0
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.1-to-9.4
 
 Tags: 9.1-to-9.5
-GitCommit: 588eba169b3127f10f6c6b8779b6ce64ca7bf7b0
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.1-to-9.5
 
 Tags: 9.1-to-9.6
-GitCommit: 588eba169b3127f10f6c6b8779b6ce64ca7bf7b0
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.1-to-9.6
 
+Tags: 9.2-to-10
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
+Directory: 9.2-to-10
+
 Tags: 9.2-to-9.3
-GitCommit: 3fee6cf527c8132ab308f1f4f3cd5ba55105fb33
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.2-to-9.3
 
 Tags: 9.2-to-9.4
-GitCommit: 3fee6cf527c8132ab308f1f4f3cd5ba55105fb33
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.2-to-9.4
 
 Tags: 9.2-to-9.5
-GitCommit: 3fee6cf527c8132ab308f1f4f3cd5ba55105fb33
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.2-to-9.5
 
 Tags: 9.2-to-9.6
-GitCommit: 3fee6cf527c8132ab308f1f4f3cd5ba55105fb33
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.2-to-9.6
 
+Tags: 9.3-to-10
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
+Directory: 9.3-to-10
+
 Tags: 9.3-to-9.4
-GitCommit: 3fee6cf527c8132ab308f1f4f3cd5ba55105fb33
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.3-to-9.4
 
 Tags: 9.3-to-9.5
-GitCommit: 3fee6cf527c8132ab308f1f4f3cd5ba55105fb33
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.3-to-9.5
 
 Tags: 9.3-to-9.6
-GitCommit: 3fee6cf527c8132ab308f1f4f3cd5ba55105fb33
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.3-to-9.6
 
+Tags: 9.4-to-10
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
+Directory: 9.4-to-10
+
 Tags: 9.4-to-9.5
-GitCommit: 3fee6cf527c8132ab308f1f4f3cd5ba55105fb33
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.4-to-9.5
 
 Tags: 9.4-to-9.6
-GitCommit: 3fee6cf527c8132ab308f1f4f3cd5ba55105fb33
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.4-to-9.6
 
+Tags: 9.5-to-10
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
+Directory: 9.5-to-10
+
 Tags: 9.5-to-9.6
-GitCommit: 3fee6cf527c8132ab308f1f4f3cd5ba55105fb33
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
 Directory: 9.5-to-9.6
+
+Tags: 9.6-to-10
+GitCommit: 7b5f9c08fde932d9b5274cb39bf9c85e62d199e9
+Directory: 9.6-to-10
