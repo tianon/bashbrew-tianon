@@ -19,8 +19,8 @@ Tags: 0.13.10, 0.13
 GitCommit: 6a592c5de331ca55f466e1d1ab4498ab30090d3d
 Directory: 0.13
 
-Tags: 0.14.40-rc.2, 0.14.40-rc, 0.14-rc, rc
-GitCommit: 1df96a010b50a1dc9987ac3fb53b37d41a7eb0ca
+Tags: 0.14.40-rc.3, 0.14.40-rc, 0.14-rc, rc
+GitCommit: 12db7f81ae57e85e716a6b7dd9fe79c89960db7c
 Directory: 0.14-rc
 
 Tags: 0.14.39, 0.14, 0, latest
