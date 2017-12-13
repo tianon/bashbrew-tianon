@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 2.34, 2, latest
-GitCommit: 0bae1beb350affccd25bff078f702994108078c2
+Tags: 2.35, 2, latest
+GitCommit: cec26a4e098adca112bf5b2e19d739b1c749ca15
 Directory: snapcraft
