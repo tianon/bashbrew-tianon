@@ -1,8 +1,8 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 1.2.1, 1.2, 1, latest
-GitCommit: 71107a6243519c2df2fcabb2faed2bd5bda3299d
+Tags: 2.0.0, 2.0, 2, latest
+GitCommit: b56c5f000960d1a677512f2abcba2d38f9a1fff8
 Directory: prometheus
 
 Tags: node-exporter
