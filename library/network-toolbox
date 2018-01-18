@@ -5,6 +5,6 @@ Tags: alpine
 GitCommit: a2a16e9b8a40fa6688912262fe6ceafbf5697e2a
 Directory: network-toolbox/alpine
 
-Tags: debian
+Tags: debian, latest
 GitCommit: 8844e89681ce90068f7f39e6aea785f40603c9ae
 Directory: network-toolbox/debian
