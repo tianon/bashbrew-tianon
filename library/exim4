@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: latest
-GitCommit: 0a62b72361d10bb2179bad584d9a2f8395f18989
+GitCommit: d6c621cb9d541196519aabd52e4fa7edbf338c23
 Directory: exim4
