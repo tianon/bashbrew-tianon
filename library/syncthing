@@ -23,8 +23,8 @@ Tags: 0.14.44-rc.3, 0.14.44-rc, 0.14-rc, rc
 GitCommit: dd1e9f609ad6cec0f9eaf0b400126d9bf8e01bec
 Directory: 0.14-rc
 
-Tags: 0.14.43, 0.14, 0, latest
-GitCommit: 190c269e68994eacb116806aafe1b664f8a29288
+Tags: 0.14.44, 0.14, 0, latest
+GitCommit: 9cea9af6738df50ad73c93341505ddda9618029e
 Directory: 0.14
 
 Tags: inotify-0.8.7, inotify-0.8, inotify-0, inotify
