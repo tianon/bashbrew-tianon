@@ -3,22 +3,6 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-syncthing.git
 
-Tags: 0.10.31, 0.10
-GitCommit: fe53c4467cc06e5806b1407a0b1dbe39f7bcd031
-Directory: 0.10
-
-Tags: 0.11.26, 0.11
-GitCommit: fe53c4467cc06e5806b1407a0b1dbe39f7bcd031
-Directory: 0.11
-
-Tags: 0.12.25, 0.12
-GitCommit: 6a592c5de331ca55f466e1d1ab4498ab30090d3d
-Directory: 0.12
-
-Tags: 0.13.10, 0.13
-GitCommit: 6a592c5de331ca55f466e1d1ab4498ab30090d3d
-Directory: 0.13
-
 Tags: 0.14.47-rc.4, 0.14.47-rc, 0.14-rc, rc
 GitCommit: 0bb9a962fb2176a7426e75394937a4beb9806b89
 Directory: 0.14-rc
@@ -26,7 +10,3 @@ Directory: 0.14-rc
 Tags: 0.14.46, 0.14, 0, latest
 GitCommit: 05507bbd09cedcb9e4ec3fbdfbe0b1900b226d34
 Directory: 0.14
-
-Tags: inotify-0.8.7, inotify-0.8, inotify-0, inotify
-GitCommit: 8c2a92cf126682be44d344c94bf6676d435240cb
-Directory: inotify
