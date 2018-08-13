@@ -5,6 +5,10 @@ Tags: 2.3.2, 2.3, 2, latest
 GitCommit: 228aa1c8e9732a1e3319ecb5c8b845ec2be506cb
 Directory: prometheus
 
+Tags: blackbox-exporter
+GitCommit: 63fcc3f904a34b6b725d49b3e04b8eb8874b88b1
+Directory: prometheus/blackbox-exporter
+
 Tags: node-exporter
 GitCommit: 4039e50adcafa1e193057a370ae93b7a4ba033f1
 Directory: prometheus/node-exporter
