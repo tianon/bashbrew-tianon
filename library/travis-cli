@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 1.8.8, 1.8, 1, latest
-GitCommit: 873b55880e347f106b7cef18905932be246a7762
+Tags: 1.8.9, 1.8, 1, latest
+GitCommit: 21f2e5ef0eb376f82b64ad42d4b56f2d2bd43461
 Directory: travis-cli
