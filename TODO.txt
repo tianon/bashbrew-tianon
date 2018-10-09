@@ -4,7 +4,5 @@ jenkins-slave
 nylas-n1
 nylas-sync-engine
 rawdns (needs "docker build -f")
-syncthing-cli
-syncthing-inotify
 ubuntu-devel
 vmdebootstrap
