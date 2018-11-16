@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: latest
-GitCommit: 632d1c0405459a820a954fa0ce6a78c1fcd5416d
+GitCommit: 84df85957db8a8492ac82b69b5fa04b8e6dc4269
 Directory: xen-orchestra
