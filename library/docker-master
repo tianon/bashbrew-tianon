@@ -2,7 +2,7 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: latest, master
-GitCommit: c8f844aeb4a54088bba409badd17ba83698f459b
+GitCommit: 3469a82bad8889891a879efaa876e4b69c1f8773
 Directory: docker-master
 
 Tags: dind, master-dind
