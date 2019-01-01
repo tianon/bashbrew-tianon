@@ -1,12 +1,8 @@
-# this file is generated via https://github.com/tianon/docker-syncthing/blob/0aba595fcfbf021e9c96754f7a056ee1719f8d9f/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-syncthing/blob/1dbf7e65080641de13130f3a2fc2116bbdaf6a11/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-syncthing.git
 
-Tags: 0.14.55-rc.2, 0.14.55-rc, 0.14-rc, rc
-GitCommit: 1e824a8cdf746fb6762fbf723e2a458da1785057
-Directory: 0.14-rc
-
-Tags: 0.14.54, 0.14, 0, latest
-GitCommit: c79ad62ce0c467ac19f08fe304d19415adb132ea
-Directory: 0.14
+Tags: 1.0.0, 1.0, 1, latest
+GitCommit: 04b39721bf89635a18b89bc140a8372f0c9932b5
+Directory: 1.0
