@@ -5,4 +5,3 @@ nylas-n1
 nylas-sync-engine
 rawdns (needs "docker build -f")
 ubuntu-devel
-vmdebootstrap
