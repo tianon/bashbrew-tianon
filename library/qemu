@@ -1,6 +1,20 @@
-Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
-GitRepo: https://github.com/tianon/dockerfiles.git
+# this file is generated via https://github.com/tianon/docker-qemu/blob/2f0352d59f2fc67f914dce403f61a6c0c51be162/generate-stackbrew-library.sh
 
-Tags: 2.12.1, 2.12, 2, latest
-GitCommit: 5588e89d15eaa032223a1f0c05ed9a5733382bcf
-Directory: qemu
+Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
+GitRepo: https://github.com/tianon/docker-qemu.git
+
+Tags: 3.1.0, 3.1, 3, latest
+GitCommit: 5744226562b2e65d0b27c675f5823eb75a68970f
+Directory: 3.1
+
+Tags: 3.0.0, 3.0
+GitCommit: 5744226562b2e65d0b27c675f5823eb75a68970f
+Directory: 3.0
+
+Tags: 2.12.1, 2.12, 2
+GitCommit: 5744226562b2e65d0b27c675f5823eb75a68970f
+Directory: 2.12
+
+Tags: 2.11.2, 2.11
+GitCommit: 5744226562b2e65d0b27c675f5823eb75a68970f
+Directory: 2.11
