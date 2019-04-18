@@ -1,0 +1,9 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/rawdns.git
+
+Tags: 1.7, 1, latest
+GitCommit: 2a02274a4fa29bae9812805a443792ec886c429d
+File: Dockerfile.production
+
+Tags: master
+GitCommit: 1e2222d8872d1ac66b269f44dc9a26c0d0844db4
