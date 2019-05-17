@@ -2,9 +2,9 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: alpine
-GitCommit: 4bc9e1a50ee138a12cef4333288ef4d8a1c16344
+GitCommit: 0730449d5a13f92aeecadc2686f27dc2e446082d
 Directory: network-toolbox/alpine
 
 Tags: debian, latest
-GitCommit: 92223b00bd53418df36f9900c78054bafa47c673
+GitCommit: 0730449d5a13f92aeecadc2686f27dc2e446082d
 Directory: network-toolbox/debian
