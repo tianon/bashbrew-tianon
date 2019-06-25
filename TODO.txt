@@ -1,6 +1,4 @@
 debian-devel
 frakendebian
 jenkins-slave
-nylas-n1
-nylas-sync-engine
 ubuntu-devel
