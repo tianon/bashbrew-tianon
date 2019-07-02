@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 0.1.0, 0.1, 0, latest
-GitCommit: 42ef7fb249b813242de3f8727b2d37469c19edc8
+GitCommit: d3e3348dec6c01f11dfd109520a73ea2dd1c6871
 Directory: vultr-cli
