@@ -2,8 +2,4 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/gosleep.git
 
 Tags: 1.0, 1, latest
-GitFetch: refs/tags/1.0
-GitCommit: b432dac6333ffaa35d65b6fe237b8f5e6c5151e1
-
-Tags: master
 GitCommit: 027c3df73a6094f72a8b74bcb0a847722661905c
