@@ -1,20 +1,20 @@
-# this file is generated via https://github.com/tianon/docker-qemu/blob/22af0226e98634069791565c284ebb1a8222d4ea/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-qemu/blob/dee71cdf294bd8462770c00870848bcd4560beee/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
 
-Tags: 4.1.0-rc2, 4.1-rc
-GitCommit: 050497a2210adfa0e8ba4bb471ab6470f86a020f
+Tags: 4.1.0-rc2, 4.1-rc, rc
+GitCommit: 768667821b3d5d4ba280031322907e63ea9857ce
 Directory: 4.1-rc
 
 Tags: 4.0.0, 4.0, 4, latest
-GitCommit: 22af0226e98634069791565c284ebb1a8222d4ea
+GitCommit: 768667821b3d5d4ba280031322907e63ea9857ce
 Directory: 4.0
 
 Tags: 3.1.0, 3.1, 3
-GitCommit: 5744226562b2e65d0b27c675f5823eb75a68970f
+GitCommit: 768667821b3d5d4ba280031322907e63ea9857ce
 Directory: 3.1
 
 Tags: 3.0.1, 3.0
-GitCommit: 22af0226e98634069791565c284ebb1a8222d4ea
+GitCommit: 768667821b3d5d4ba280031322907e63ea9857ce
 Directory: 3.0
