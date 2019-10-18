@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 3.0.105, 3.0, 3, latest
-GitCommit: 63890b31c522a60ee2b027ffdb3af12c8b268a72
+GitCommit: 09f05951889ac6ebe3870fa880fa285b7e0bd65d
 Directory: moosefs
