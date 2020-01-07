@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 2.212, 2, latest
-GitCommit: 83480cd71aa603e0cff29c45275e38c94d98227d
+Tags: 2.213, 2, latest
+GitCommit: ca1f5a9c9baec1fd5a611a92b9b81dc15d75dedf
 Directory: jenkins
