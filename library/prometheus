@@ -2,7 +2,7 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 2.3.2, 2.3, 2, latest
-GitCommit: 8c5c3d21a39e4abae5c75376cce3efb8de564925
+GitCommit: ef9cf9438d12236072488bc6768c0504d53636ba
 Directory: prometheus
 
 Tags: blackbox-exporter

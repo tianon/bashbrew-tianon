@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: latest
-GitCommit: daf6eac3cd5c8a0f31b7b18f5889eba2f89a8d1c
+GitCommit: ef9cf9438d12236072488bc6768c0504d53636ba
 Directory: gmpydl
