@@ -1,4 +1,1 @@
-debian-devel
-frakendebian
 jenkins-slave
-ubuntu-devel
