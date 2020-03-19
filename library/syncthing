@@ -3,8 +3,8 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-syncthing.git
 
-Tags: 1.4.1-rc.1, 1-rc, rc
-GitCommit: a399005be4b663d32ce2f16897c1fabd56ef5dfb
+Tags: 1.4.1-rc.2, 1-rc, rc
+GitCommit: 01adcd721cb0eb07caec8b4dfcfaa8171f46f0bf
 Directory: 1-rc
 
 Tags: 1.4.0, 1.4, 1, latest
