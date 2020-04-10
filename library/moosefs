@@ -1,6 +1,12 @@
-Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
-GitRepo: https://github.com/tianon/dockerfiles.git
+# this file is generated via https://github.com/tianon/docker-moosefs/blob/3df26ffa4ed943e9c760a3f82ece9f4aa13785c3/generate-stackbrew-library.sh
+
+Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
+GitRepo: https://github.com/tianon/docker-moosefs.git
 
 Tags: 3.0.112, 3.0, 3, latest
-GitCommit: c1f58e8e9e3ba43e71b10a3c1edf7bebe7e298bc
-Directory: moosefs
+GitCommit: eaac81b84b28db97266b536c5105c49065a3699d
+Directory: 3
+
+Tags: volume-driver
+GitCommit: d22ff8a845113d771684f7557c0e018162c8cfa0
+Directory: mfs-volume-driver
