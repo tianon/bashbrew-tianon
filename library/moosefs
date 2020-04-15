@@ -3,6 +3,10 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-moosefs.git
 
+Tags: 3-pro
+GitCommit: 
+Directory: 3-pro
+
 Tags: 3.0.112, 3.0, 3, latest
 GitCommit: eaac81b84b28db97266b536c5105c49065a3699d
 Directory: 3
