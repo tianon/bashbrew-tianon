@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: latest
-GitCommit: 440d438ffb78fc31778ba2a3c7d60359ae4c0e11
+GitCommit: 9e3ecd02266ea686e6b886df2929be7c6b1c51bb
 Directory: sbuild
