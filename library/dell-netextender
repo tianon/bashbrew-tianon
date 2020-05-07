@@ -2,9 +2,9 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: latest
-GitCommit: a7893ff62f7951e2040665565bcf34fce213cde5
+GitCommit: a41eea97dfeba4d6c91db7495382dad3429785c3
 Directory: dell-netextender
 
 Tags: gui
-GitCommit: a7893ff62f7951e2040665565bcf34fce213cde5
+GitCommit: a41eea97dfeba4d6c91db7495382dad3429785c3
 Directory: dell-netextender/gui
