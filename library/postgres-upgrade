@@ -102,11 +102,11 @@ GitCommit: 2ca2c5a5c3745c44d3e7ee9f0ed77bc3349bb52b
 Directory: 9.5-to-9.6
 
 Tags: 9.6-to-10
-GitCommit: 2ca2c5a5c3745c44d3e7ee9f0ed77bc3349bb52b
+GitCommit: b71a26f91231ec4f1be2f1779c1369846e87c9ad
 Directory: 9.6-to-10
 
 Tags: 9.6-to-11
-GitCommit: 2ca2c5a5c3745c44d3e7ee9f0ed77bc3349bb52b
+GitCommit: b71a26f91231ec4f1be2f1779c1369846e87c9ad
 Directory: 9.6-to-11
 
 Tags: 9.6-to-12
