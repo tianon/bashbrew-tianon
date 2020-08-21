@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 1.16, 1, latest
-GitCommit: ef9cf9438d12236072488bc6768c0504d53636ba
+GitCommit: d109360e7c96efe13ee70aea8ad78ccd8cf43921
 Directory: google-cloud-print-connector
