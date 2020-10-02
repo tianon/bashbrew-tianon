@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 1.20.0, 1.20, 1, latest
-GitCommit: c1610b96ffcea268495de6bc01aa9d72c59f9392
+Tags: 1.23.0, 1.23, 1, latest
+GitCommit: d2822570099712aa5295f9ee9a36fc9d04966bcd
 Directory: pmbootstrap
