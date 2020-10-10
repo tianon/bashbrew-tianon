@@ -3,8 +3,8 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-moosefs.git
 
-Tags: 3.0.114, 3.0, 3, latest
-GitCommit: 7972b67f74bfc525839fa64b7aa927049bb603b4
+Tags: 3.0.115, 3.0, 3, latest
+GitCommit: f03eca1d7a0559fff817daf9798661ca7159e2cc
 Directory: 3
 
 Tags: volume-driver
