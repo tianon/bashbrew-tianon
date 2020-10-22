@@ -1,6 +1,0 @@
-Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
-GitRepo: https://github.com/tianon/dockerfiles.git
-
-Tags: cli-1.11.0, cli-1.11, cli-1, cli
-GitCommit: 521c8606d91ac2dddcae4d8876abf4791c077f85
-Directory: bitwarden/cli
