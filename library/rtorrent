@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: latest
-GitCommit: 3cc9c68e2da6f6f401eb70249aa96e48369dedde
+GitCommit: 73e024407c83899d2e5f53b643c43437a0f34166
 Directory: rtorrent
