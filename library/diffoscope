@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 161, latest
-GitCommit: 265fe8f9a54f59c84ce04937b8cc074e93dd54db
+GitCommit: 9546c4334462575a359a5ea3c65fdcfc21a17791
 Directory: diffoscope
