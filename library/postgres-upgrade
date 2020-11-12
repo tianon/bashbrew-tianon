@@ -2,27 +2,27 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/docker-postgres-upgrade.git
 
 Tags: 10-to-11
-GitCommit: 1d98777ce7fa8805a62662645e864caed5ca4789
+GitCommit: 3a07745dd88e4e0d598c0a500f9ab241f81bef20
 Directory: 10-to-11
 
 Tags: 10-to-12
-GitCommit: 1d98777ce7fa8805a62662645e864caed5ca4789
+GitCommit: 3a07745dd88e4e0d598c0a500f9ab241f81bef20
 Directory: 10-to-12
 
 Tags: 10-to-13
-GitCommit: 69da47eb23540c4cd2300cfc81d038aa7106f178
+GitCommit: 3a07745dd88e4e0d598c0a500f9ab241f81bef20
 Directory: 10-to-13
 
 Tags: 11-to-12
-GitCommit: 1d98777ce7fa8805a62662645e864caed5ca4789
+GitCommit: 3a07745dd88e4e0d598c0a500f9ab241f81bef20
 Directory: 11-to-12
 
 Tags: 11-to-13
-GitCommit: 69da47eb23540c4cd2300cfc81d038aa7106f178
+GitCommit: 3a07745dd88e4e0d598c0a500f9ab241f81bef20
 Directory: 11-to-13
 
 Tags: 12-to-13
-GitCommit: 69da47eb23540c4cd2300cfc81d038aa7106f178
+GitCommit: 3a07745dd88e4e0d598c0a500f9ab241f81bef20
 Directory: 12-to-13
 
 Tags: 9.2-to-10
@@ -130,17 +130,17 @@ GitCommit: 1d98777ce7fa8805a62662645e864caed5ca4789
 Directory: 9.5-to-9.6
 
 Tags: 9.6-to-10
-GitCommit: 1d98777ce7fa8805a62662645e864caed5ca4789
+GitCommit: 3a07745dd88e4e0d598c0a500f9ab241f81bef20
 Directory: 9.6-to-10
 
 Tags: 9.6-to-11
-GitCommit: 1d98777ce7fa8805a62662645e864caed5ca4789
+GitCommit: 3a07745dd88e4e0d598c0a500f9ab241f81bef20
 Directory: 9.6-to-11
 
 Tags: 9.6-to-12
-GitCommit: 1d98777ce7fa8805a62662645e864caed5ca4789
+GitCommit: 3a07745dd88e4e0d598c0a500f9ab241f81bef20
 Directory: 9.6-to-12
 
 Tags: 9.6-to-13
-GitCommit: 69da47eb23540c4cd2300cfc81d038aa7106f178
+GitCommit: 3a07745dd88e4e0d598c0a500f9ab241f81bef20
 Directory: 9.6-to-13
