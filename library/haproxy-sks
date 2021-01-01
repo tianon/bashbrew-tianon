@@ -1,6 +1,0 @@
-Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
-GitRepo: https://github.com/tianon/dockerfiles.git
-
-Tags: latest
-GitCommit: 189858b76da9e6b5c72e16bed9846a1b1e3f543d
-Directory: haproxy-sks

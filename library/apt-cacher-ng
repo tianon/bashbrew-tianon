@@ -1,6 +1,0 @@
-Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
-GitRepo: https://github.com/tianon/dockerfiles.git
-
-Tags: latest
-GitCommit: 0285c522f65233f15e69858e340aef1203a786bd
-Directory: apt-cacher-ng
