@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 0.5.8, 0.5, 0, latest
-GitCommit: 40ef0bbf188ebeae265b60fb857ac9b151bdf59d
+Tags: 0.5.8.2, 0.5.8, 0.5, 0, latest
+GitCommit: 31c3c036bcf0a15b45000df8f3c1592dbe53bb24
 Directory: lutris
