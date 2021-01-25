@@ -5,6 +5,6 @@ Tags: 2.276, 2, weekly, latest
 GitCommit: 559ad51b074e1cf45711e904cf70c120573c1723
 Directory: jenkins/weekly
 
-Tags: 2.263.2-lts, 2.263-lts, 2-lts, lts
-GitCommit: 71807c37da25298f1356daa44d8fca4670a21fd3
+Tags: 2.263.3-lts, 2.263-lts, 2-lts, lts
+GitCommit: 66f561a575b3a68eb1a8eee037a907490f3a7160
 Directory: jenkins/lts
