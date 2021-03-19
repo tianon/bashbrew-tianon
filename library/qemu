@@ -4,17 +4,17 @@ Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
 
 Tags: 4.2.1, 4.2, 4
-GitCommit: 4e1a7d35a8de340900eb931a2e6f6d1380687673
+GitCommit: 60b52f4eb2e6f6589b9d7c242d011bad29a17f7c
 Directory: 4.2
 
 Tags: 5.0.1, 5.0
-GitCommit: 4e1a7d35a8de340900eb931a2e6f6d1380687673
+GitCommit: 60b52f4eb2e6f6589b9d7c242d011bad29a17f7c
 Directory: 5.0
 
 Tags: 5.1.0, 5.1
-GitCommit: 4e1a7d35a8de340900eb931a2e6f6d1380687673
+GitCommit: 60b52f4eb2e6f6589b9d7c242d011bad29a17f7c
 Directory: 5.1
 
 Tags: 5.2.0, 5.2, 5, latest
-GitCommit: 4e1a7d35a8de340900eb931a2e6f6d1380687673
+GitCommit: 60b52f4eb2e6f6589b9d7c242d011bad29a17f7c
 Directory: 5.2
