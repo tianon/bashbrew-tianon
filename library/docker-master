@@ -6,7 +6,7 @@ GitCommit: 6ce97d62db9735f6a9789b5da0d392d77b383e6d
 Directory: docker-master
 
 Tags: dind, master-dind
-GitCommit: 6ce97d62db9735f6a9789b5da0d392d77b383e6d
+GitCommit: a83605029f360817719fd741997be47dd490f2a3
 Directory: docker-master/dind
 
 Tags: git, master-git

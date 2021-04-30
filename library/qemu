@@ -1,18 +1,7 @@
-# this file is generated via https://github.com/tianon/docker-qemu/blob/9b65e709eb85e97df85def6bdc7ffdfa7310fe07/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-qemu/blob/6466cf27a8f8719098d9c2db39727979cd9e577e/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
-
-Tags: 4.2.1, 4.2, 4
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: d32fb448a8dccbcf4d7d8e43d7d016d2e5962d34
-Directory: 4.2
-
-Tags: 4.2.1-native, 4.2-native, 4-native
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: d32fb448a8dccbcf4d7d8e43d7d016d2e5962d34
-Directory: 4.2
-File: Dockerfile.native
 
 Tags: 5.0.1, 5.0
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
@@ -36,13 +25,24 @@ GitCommit: d32fb448a8dccbcf4d7d8e43d7d016d2e5962d34
 Directory: 5.1
 File: Dockerfile.native
 
-Tags: 5.2.0, 5.2, 5, latest
+Tags: 5.2.0, 5.2, 5
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 GitCommit: d32fb448a8dccbcf4d7d8e43d7d016d2e5962d34
 Directory: 5.2
 
-Tags: 5.2.0-native, 5.2-native, 5-native, native
+Tags: 5.2.0-native, 5.2-native, 5-native
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 GitCommit: d32fb448a8dccbcf4d7d8e43d7d016d2e5962d34
 Directory: 5.2
+File: Dockerfile.native
+
+Tags: 6.0.0, 6.0, 6, latest
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+GitCommit: 6466cf27a8f8719098d9c2db39727979cd9e577e
+Directory: 6.0
+
+Tags: 6.0.0-native, 6.0-native, 6-native, native
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+GitCommit: 6466cf27a8f8719098d9c2db39727979cd9e577e
+Directory: 6.0
 File: Dockerfile.native
