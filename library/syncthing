@@ -7,6 +7,6 @@ Tags: 1.16.0-rc.3, 1-rc, rc
 GitCommit: c361c0fa72548285e31e1dfadbde791d2a29185d
 Directory: 1-rc
 
-Tags: 1.15.1, 1.15, 1, latest
-GitCommit: b4875957bb82a7aa39d440f644655987600a6d8c
+Tags: 1.16.0, 1.16, 1, latest
+GitCommit: af21cc393979fc0a0f4ac56293bbf9c8758dbe2d
 Directory: 1
