@@ -11,8 +11,10 @@ fi
 
 "$bashbrew" cat --format '
 	{{- range .Entries -}}
-		{{ $.DockerFroms . | join "\n" }}
-		{{ "\n" }}
+		{{- if not ($.SkipConstraints .) -}}
+			{{ $.DockerFroms . | join "\n" }}
+			{{ "\n" }}
+		{{- end -}}
 	{{- end -}}
 ' "$@" \
 	| sort -u \
