@@ -5,6 +5,6 @@ Tags: 92.0.902.45-1-beta, 92.0.902.45-beta, 92.0.902-beta, 92.0-beta, 92-beta, b
 GitCommit: 0fc92bb9a2eef0f8dbff5c4d8a0f5fee1d102414
 Directory: microsoft-edge/beta
 
-Tags: 93.0.933.1-1-dev, 93.0.933.1-dev, 93.0.933-dev, 93.0-dev, 93-dev, dev
-GitCommit: b380103a2130e2fcf4466a6891f75c4376b9129a
+Tags: 93.0.946.1-1-dev, 93.0.946.1-dev, 93.0.946-dev, 93.0-dev, 93-dev, dev
+GitCommit: 96453d445d93a015c5e82c5ed589f7f75907e407
 Directory: microsoft-edge/dev
