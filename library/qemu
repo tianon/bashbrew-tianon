@@ -3,46 +3,46 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
 
-Tags: 5.0.1, 5.0, 5.0.1-buster, 5.0-buster
+Tags: 5.0.1, 5.0, 5.0.1-bullseye, 5.0-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 5.0
 
-Tags: 5.0.1-native, 5.0-native, 5.0.1-native-buster, 5.0-native-buster
+Tags: 5.0.1-native, 5.0-native, 5.0.1-native-bullseye, 5.0-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 5.0
 File: Dockerfile.native
 
-Tags: 5.1.0, 5.1, 5.1.0-buster, 5.1-buster
+Tags: 5.1.0, 5.1, 5.1.0-bullseye, 5.1-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 5.1
 
-Tags: 5.1.0-native, 5.1-native, 5.1.0-native-buster, 5.1-native-buster
+Tags: 5.1.0-native, 5.1-native, 5.1.0-native-bullseye, 5.1-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 5.1
 File: Dockerfile.native
 
-Tags: 5.2.0, 5.2, 5, 5.2.0-buster, 5.2-buster, 5-buster
+Tags: 5.2.0, 5.2, 5, 5.2.0-bullseye, 5.2-bullseye, 5-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 5.2
 
-Tags: 5.2.0-native, 5.2-native, 5-native, 5.2.0-native-buster, 5.2-native-buster, 5-native-buster
+Tags: 5.2.0-native, 5.2-native, 5-native, 5.2.0-native-bullseye, 5.2-native-bullseye, 5-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 5.2
 File: Dockerfile.native
 
-Tags: 6.0.0, 6.0, 6, latest, 6.0.0-buster, 6.0-buster, 6-buster, buster
+Tags: 6.0.0, 6.0, 6, latest, 6.0.0-bullseye, 6.0-bullseye, 6-bullseye, bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 5960559f0eae8b0310149d33410eee752eea7ccf
+GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 6.0
 
-Tags: 6.0.0-native, 6.0-native, 6-native, native, 6.0.0-native-buster, 6.0-native-buster, 6-native-buster, native-buster
+Tags: 6.0.0-native, 6.0-native, 6-native, native, 6.0.0-native-bullseye, 6.0-native-bullseye, 6-native-bullseye, native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 5960559f0eae8b0310149d33410eee752eea7ccf
+GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 6.0
 File: Dockerfile.native
