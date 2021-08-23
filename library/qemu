@@ -5,44 +5,44 @@ GitRepo: https://github.com/tianon/docker-qemu.git
 
 Tags: 5.0.1, 5.0
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: bfc6cbdbe48b485b5eee72186fea33cac67bbedc
 Directory: 5.0
 
 Tags: 5.0.1-native, 5.0-native
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: bfc6cbdbe48b485b5eee72186fea33cac67bbedc
 Directory: 5.0
 File: Dockerfile.native
 
 Tags: 5.1.0, 5.1
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: bfc6cbdbe48b485b5eee72186fea33cac67bbedc
 Directory: 5.1
 
 Tags: 5.1.0-native, 5.1-native
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: bfc6cbdbe48b485b5eee72186fea33cac67bbedc
 Directory: 5.1
 File: Dockerfile.native
 
 Tags: 5.2.0, 5.2, 5
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: bfc6cbdbe48b485b5eee72186fea33cac67bbedc
 Directory: 5.2
 
 Tags: 5.2.0-native, 5.2-native, 5-native
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: bfc6cbdbe48b485b5eee72186fea33cac67bbedc
 Directory: 5.2
 File: Dockerfile.native
 
 Tags: 6.0.0, 6.0, 6, latest
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: bfc6cbdbe48b485b5eee72186fea33cac67bbedc
 Directory: 6.0
 
 Tags: 6.0.0-native, 6.0-native, 6-native, native
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: dea0e24bf92cdb234cf0b885b0435db49231c511
+GitCommit: bfc6cbdbe48b485b5eee72186fea33cac67bbedc
 Directory: 6.0
 File: Dockerfile.native
