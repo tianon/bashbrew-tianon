@@ -1,29 +1,7 @@
-# this file is generated via https://github.com/tianon/docker-qemu/blob/c18ab389e70150c529ca307d8e38d59dc9cd60b2/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-qemu/blob/68da4e7b73f2117f5f536eb4c5f3731a2ca31026/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
-
-Tags: 5.0.1, 5.0, 5.0.1-bullseye, 5.0-bullseye
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
-Directory: 5.0
-
-Tags: 5.0.1-native, 5.0-native, 5.0.1-native-bullseye, 5.0-native-bullseye
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
-Directory: 5.0
-File: Dockerfile.native
-
-Tags: 5.1.0, 5.1, 5.1.0-bullseye, 5.1-bullseye
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
-Directory: 5.1
-
-Tags: 5.1.0-native, 5.1-native, 5.1.0-native-bullseye, 5.1-native-bullseye
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
-Directory: 5.1
-File: Dockerfile.native
 
 Tags: 5.2.0, 5.2, 5, 5.2.0-bullseye, 5.2-bullseye, 5-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
@@ -36,13 +14,24 @@ GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 5.2
 File: Dockerfile.native
 
-Tags: 6.0.0, 6.0, 6, latest, 6.0.0-bullseye, 6.0-bullseye, 6-bullseye, bullseye
+Tags: 6.0.0, 6.0, 6.0.0-bullseye, 6.0-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 6.0
 
-Tags: 6.0.0-native, 6.0-native, 6-native, native, 6.0.0-native-bullseye, 6.0-native-bullseye, 6-native-bullseye, native-bullseye
+Tags: 6.0.0-native, 6.0-native, 6.0.0-native-bullseye, 6.0-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 GitCommit: 6ea6a982148de0d1a99ba54d9c4eb19be06f14b9
 Directory: 6.0
+File: Dockerfile.native
+
+Tags: 6.1.0, 6.1, 6, latest, 6.1.0-bullseye, 6.1-bullseye, 6-bullseye, bullseye
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+GitCommit: 68da4e7b73f2117f5f536eb4c5f3731a2ca31026
+Directory: 6.1
+
+Tags: 6.1.0-native, 6.1-native, 6-native, native, 6.1.0-native-bullseye, 6.1-native-bullseye, 6-native-bullseye, native-bullseye
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+GitCommit: 68da4e7b73f2117f5f536eb4c5f3731a2ca31026
+Directory: 6.1
 File: Dockerfile.native
