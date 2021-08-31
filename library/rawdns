@@ -7,4 +7,4 @@ GitCommit: daa22259294fd3cef2dc72341e1756d05714df1c
 File: Dockerfile.production
 
 Tags: master
-GitCommit: 02b45596f9fd3df250cf43faeb2e9705274ef54f
+GitCommit: b31e358f1c05f89af77adc75c7fde0568002efa8
