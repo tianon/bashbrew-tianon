@@ -9,6 +9,6 @@ Tags: 96.0.1054.8-1-beta, 96.0.1054.8-beta, 96.0.1054-beta, 96.0-beta, 96-beta, 
 GitCommit: 459aaee93e497b155d70819b0b39706a5b131e2f
 Directory: microsoft-edge/beta
 
-Tags: 96.0.1054.5-1-dev, 96.0.1054.5-dev, 96.0.1054-dev, 96.0-dev, 96-dev, dev
-GitCommit: 0779f9bf98e9d832ef0eb20faf6f14c3ca22b5fd
+Tags: 97.0.1060.2-1-dev, 97.0.1060.2-dev, 97.0.1060-dev, 97.0-dev, 97-dev, dev
+GitCommit: c3e0bccf861cd16811754fe4a7e9e2a0a1c82ce2
 Directory: microsoft-edge/dev
