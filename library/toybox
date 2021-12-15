@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 0.8.5, 0.8, 0, latest
-GitCommit: 3632cf7fa058f92cca1f6dd4c280ab503c2d58e5
+Tags: 0.8.6, 0.8, 0, latest
+GitCommit: 1605f1124a5db1933783ceca09bd862ff8151e58
 Directory: toybox
