@@ -14,14 +14,14 @@ GitCommit: f123a94bc9be9021cc180373bd4e79369c59e444
 Directory: 6.0
 File: Dockerfile.native
 
-Tags: 6.1.0, 6.1, 6.1.0-bullseye, 6.1-bullseye
+Tags: 6.1.1, 6.1, 6.1.1-bullseye, 6.1-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 68da4e7b73f2117f5f536eb4c5f3731a2ca31026
+GitCommit: 61fceff23a841009461d81aea08f8455aa823166
 Directory: 6.1
 
-Tags: 6.1.0-native, 6.1-native, 6.1.0-native-bullseye, 6.1-native-bullseye
+Tags: 6.1.1-native, 6.1-native, 6.1.1-native-bullseye, 6.1-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 68da4e7b73f2117f5f536eb4c5f3731a2ca31026
+GitCommit: 61fceff23a841009461d81aea08f8455aa823166
 Directory: 6.1
 File: Dockerfile.native
 
