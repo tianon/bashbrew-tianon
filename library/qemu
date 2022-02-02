@@ -5,33 +5,33 @@ GitRepo: https://github.com/tianon/docker-qemu.git
 
 Tags: 6.0.1, 6.0, 6.0.1-bullseye, 6.0-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: f123a94bc9be9021cc180373bd4e79369c59e444
+GitCommit: aa8b5e94f9e36aab4947771b6518fe59cf4debb4
 Directory: 6.0
 
 Tags: 6.0.1-native, 6.0-native, 6.0.1-native-bullseye, 6.0-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: f123a94bc9be9021cc180373bd4e79369c59e444
+GitCommit: aa8b5e94f9e36aab4947771b6518fe59cf4debb4
 Directory: 6.0
 File: Dockerfile.native
 
 Tags: 6.1.1, 6.1, 6.1.1-bullseye, 6.1-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 61fceff23a841009461d81aea08f8455aa823166
+GitCommit: 8a39db02c9674c37e3fb9ee889e719bdba53adce
 Directory: 6.1
 
 Tags: 6.1.1-native, 6.1-native, 6.1.1-native-bullseye, 6.1-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 61fceff23a841009461d81aea08f8455aa823166
+GitCommit: 8a39db02c9674c37e3fb9ee889e719bdba53adce
 Directory: 6.1
 File: Dockerfile.native
 
 Tags: 6.2.0, 6.2, 6, latest, 6.2.0-bullseye, 6.2-bullseye, 6-bullseye, bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: f123a94bc9be9021cc180373bd4e79369c59e444
+GitCommit: aa8b5e94f9e36aab4947771b6518fe59cf4debb4
 Directory: 6.2
 
 Tags: 6.2.0-native, 6.2-native, 6-native, native, 6.2.0-native-bullseye, 6.2-native-bullseye, 6-native-bullseye, native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: f123a94bc9be9021cc180373bd4e79369c59e444
+GitCommit: aa8b5e94f9e36aab4947771b6518fe59cf4debb4
 Directory: 6.2
 File: Dockerfile.native
