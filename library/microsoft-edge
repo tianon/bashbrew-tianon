@@ -5,8 +5,8 @@ Tags: 98.0.1108.56-1-stable, 98.0.1108.56-stable, 98.0.1108-stable, 98.0-stable,
 GitCommit: 162fb4cd96f77c8e852070719ed1bb439bc538d8
 Directory: microsoft-edge/stable
 
-Tags: 99.0.1150.16-1-beta, 99.0.1150.16-beta, 99.0.1150-beta, 99.0-beta, 99-beta, beta
-GitCommit: e3160e2b166ef29e5c418788f05b9bc040ce6bb0
+Tags: 99.0.1150.21-1-beta, 99.0.1150.21-beta, 99.0.1150-beta, 99.0-beta, 99-beta, beta
+GitCommit: 1dfd2267ef57c32568f4daaa91b9a988db7983f0
 Directory: microsoft-edge/beta
 
 Tags: 100.0.1163.1-1-dev, 100.0.1163.1-dev, 100.0.1163-dev, 100.0-dev, 100-dev, dev
