@@ -1,6 +1,0 @@
-Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
-GitRepo: https://github.com/tianon/dockerfiles.git
-
-Tags: 5.4.0, 5.4, 5, latest
-GitCommit: a28355d960f6fd0e14ba0d68f7ec5428129558f9
-Directory: grafana

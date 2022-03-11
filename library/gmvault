@@ -1,6 +1,0 @@
-Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
-GitRepo: https://github.com/tianon/dockerfiles.git
-
-Tags: 1.9.1, 1.9, 1, latest
-GitCommit: 89206d08e80bc66c8768cf1aeeedb65d1e126736
-Directory: gmvault
