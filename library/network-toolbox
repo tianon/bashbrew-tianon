@@ -5,6 +5,6 @@ Tags: alpine, alpine3.15
 GitCommit: 3632cf7fa058f92cca1f6dd4c280ab503c2d58e5
 Directory: network-toolbox/alpine
 
-Tags: debian, buster, latest
-GitCommit: 37d380f1a235bfd9b0101211a72288885eabb954
+Tags: debian, bullseye, latest
+GitCommit: 2b887e96616f013eae69263e9ca083f399ea6984
 Directory: network-toolbox/debian
