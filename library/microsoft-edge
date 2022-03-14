@@ -9,6 +9,6 @@ Tags: 99.0.1150.38-1-beta, 99.0.1150.38-beta, 99.0.1150-beta, 99.0-beta, 99-beta
 GitCommit: 57d0cc9e26f245546712afc3b4d78444d269d723
 Directory: microsoft-edge/beta
 
-Tags: 100.0.1181.0-1-dev, 100.0.1181.0-dev, 100.0.1181-dev, 100.0-dev, 100-dev, dev
-GitCommit: 344d854a4b5263c6e55f6562e8e75e5942ff291c
+Tags: 100.0.1185.7-1-dev, 100.0.1185.7-dev, 100.0.1185-dev, 100.0-dev, 100-dev, dev
+GitCommit: cbfb73748989d43cd26e2850a0dba9b18806c00c
 Directory: microsoft-edge/dev
