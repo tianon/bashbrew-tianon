@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 6.0.2, 6.0, 6, latest
-GitCommit: 6c1ece17f4feb8e86ea7ecfd1d18b595acc84722
+Tags: 7.0.0.0, 7.0.0, 7.0, 7, latest
+GitCommit: ea136886bdec59d97de33a665926e5d139caf37a
 Directory: wine
