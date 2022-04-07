@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 1.25.8.5663-e071c3d62-media-server, 1.25.8.5663-media-server, 1.25.8-media-server, 1.25-media-server, 1-media-server, media-server
-GitCommit: c4e3208e91aebfa8ecd077fded5ee91decae58d3
+Tags: 1.25.9.5721-965587f64-media-server, 1.25.9.5721-media-server, 1.25.9-media-server, 1.25-media-server, 1-media-server, media-server
+GitCommit: b145ca260cee27c404ac59ae3ecf4a5b9e49fde3
 Directory: plex/media-server
