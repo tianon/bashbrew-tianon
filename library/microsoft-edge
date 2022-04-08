@@ -5,10 +5,10 @@ Tags: 100.0.1185.36-1-stable, 100.0.1185.36-stable, 100.0.1185-stable, 100.0-sta
 GitCommit: 1d5b39e46a21e0e23650c077f6df797e2f0d9976
 Directory: microsoft-edge/stable
 
-Tags: 100.0.1185.27-1-beta, 100.0.1185.27-beta, 100.0.1185-beta, 100.0-beta, 100-beta, beta
-GitCommit: 68daffcaede5d7ab0b2f575f4ffd9baf2b683c8d
+Tags: 101.0.1210.10-1-beta, 101.0.1210.10-beta, 101.0.1210-beta, 101.0-beta, 101-beta, beta
+GitCommit: f638251f50f7e34a00e6cba73ecdde03cc289d43
 Directory: microsoft-edge/beta
 
-Tags: 101.0.1210.9-1-dev, 101.0.1210.9-dev, 101.0.1210-dev, 101.0-dev, 101-dev, dev
-GitCommit: 5726b58353bb03ab2e21e595f82c6ce6913e4ac8
+Tags: 102.0.1217.0-1-dev, 102.0.1217.0-dev, 102.0.1217-dev, 102.0-dev, 102-dev, dev
+GitCommit: 86137ba9c4d1f26ec934d06025d5c83da054e284
 Directory: microsoft-edge/dev
