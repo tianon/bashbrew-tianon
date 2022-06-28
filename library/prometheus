@@ -6,7 +6,7 @@ GitCommit: ebe1e06f092d5640aa29672f6af64b084481b4b4
 Directory: prometheus
 
 Tags: blackbox-exporter
-GitCommit: 93e24afa7076a8fd0de32415c8b0b88a9794f298
+GitCommit: d1caf6942f155124aa420113ffde670dc12693cc
 Directory: prometheus/blackbox-exporter
 
 Tags: node-exporter
