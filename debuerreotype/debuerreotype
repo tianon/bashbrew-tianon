@@ -1,9 +1,9 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/debuerreotype/debuerreotype.git
 
-Tags: 0.14, latest
-GitFetch: refs/tags/0.14
-GitCommit: f967665752afdb8fd2cf6d60532b012f37d19a1a
+Tags: 0.15, latest
+GitFetch: refs/tags/0.15
+GitCommit: 13a5a14f457d296f486a14713fcc3007e9e71d60
 
 Tags: master
-GitCommit: b7a322b81c55b23b535a4451c57e2fc358797c00
+GitCommit: dce6cd665006fd9057897525df82cbfacc0386c6
