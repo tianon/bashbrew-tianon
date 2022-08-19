@@ -9,6 +9,6 @@ Tags: 105.0.1343.7-1-beta, 105.0.1343.7-beta, 105.0.1343-beta, 105.0-beta, 105-b
 GitCommit: 9809ce13767116d178d6a8570a237b7476ddb76b
 Directory: microsoft-edge/beta
 
-Tags: 105.0.1343.4-1-dev, 105.0.1343.4-dev, 105.0.1343-dev, 105.0-dev, 105-dev, dev
-GitCommit: 7354f78a34af50e43955b728b00b3ecc4bddd8ab
+Tags: 106.0.1349.1-1-dev, 106.0.1349.1-dev, 106.0.1349-dev, 106.0-dev, 106-dev, dev
+GitCommit: 73be3eae9c707e4030c2b5d7b9578e79d7a91778
 Directory: microsoft-edge/dev
