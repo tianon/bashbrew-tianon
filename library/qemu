@@ -1,4 +1,4 @@
-# this file is generated via https://github.com/tianon/docker-qemu/blob/7e9d8aa2bc249535672c1e07b6af715a6cffba7c/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-qemu/blob/b399c1883122b38f7acb71b9ddae96cf85e46472/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
@@ -14,24 +14,24 @@ GitCommit: cc95cd4cb15e889784687340141d3f44e5e1d8d3
 Directory: 6.2
 File: Dockerfile.native
 
-Tags: 7.0.0, 7.0, 7, latest, 7.0.0-bullseye, 7.0-bullseye, 7-bullseye, bullseye
+Tags: 7.0.0, 7.0, 7.0.0-bullseye, 7.0-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 GitCommit: cc95cd4cb15e889784687340141d3f44e5e1d8d3
 Directory: 7.0
 
-Tags: 7.0.0-native, 7.0-native, 7-native, native, 7.0.0-native-bullseye, 7.0-native-bullseye, 7-native-bullseye, native-bullseye
+Tags: 7.0.0-native, 7.0-native, 7.0.0-native-bullseye, 7.0-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 GitCommit: cc95cd4cb15e889784687340141d3f44e5e1d8d3
 Directory: 7.0
 File: Dockerfile.native
 
-Tags: 7.1.0-rc4, 7.1-rc, 7.1.0-rc4-bullseye, 7.1-rc-bullseye
+Tags: 7.1.0, 7.1, 7, latest, 7.1.0-bullseye, 7.1-bullseye, 7-bullseye, bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 979fe97a868e98aaf239dadeb91063f7a1c093bf
-Directory: 7.1-rc
+GitCommit: b399c1883122b38f7acb71b9ddae96cf85e46472
+Directory: 7.1
 
-Tags: 7.1.0-rc4-native, 7.1-rc-native, 7.1.0-rc4-native-bullseye, 7.1-rc-native-bullseye
+Tags: 7.1.0-native, 7.1-native, 7-native, native, 7.1.0-native-bullseye, 7.1-native-bullseye, 7-native-bullseye, native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 979fe97a868e98aaf239dadeb91063f7a1c093bf
-Directory: 7.1-rc
+GitCommit: b399c1883122b38f7acb71b9ddae96cf85e46472
+Directory: 7.1
 File: Dockerfile.native
