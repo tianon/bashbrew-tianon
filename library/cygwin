@@ -9,14 +9,6 @@ Architectures: windows-amd64
 Constraints: windowsservercore-ltsc2022
 SharedTags: latest
 
-Tags: win20H2
-GitCommit: d7fdd2b54c876f48bd90826261aab75d940f445a
-Directory: cygwin
-File: Dockerfile.20H2
-Architectures: windows-amd64
-Constraints: windowsservercore-20H2
-SharedTags: latest
-
 Tags: win1809
 GitCommit: d7fdd2b54c876f48bd90826261aab75d940f445a
 Directory: cygwin
