@@ -6,5 +6,5 @@ GitCommit: a61a6232a0ea25a56788207a5d1ab102c6f9665b
 Directory: network-toolbox/alpine
 
 Tags: debian, bullseye, latest
-GitCommit: 2b887e96616f013eae69263e9ca083f399ea6984
+GitCommit: 7e24b77acf6c0fd733d0d1d1515879c13e682652
 Directory: network-toolbox/debian
