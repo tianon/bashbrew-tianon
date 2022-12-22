@@ -27,11 +27,11 @@ File: Dockerfile.native
 
 Tags: 7.2.0, 7.2, 7, latest, 7.2.0-bullseye, 7.2-bullseye, 7-bullseye, bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: bf684dd97ae761c92cac0070049a6aae7e325fe8
+GitCommit: f0796478136a744f3ca6003d3aae963840bc80b5
 Directory: 7.2
 
 Tags: 7.2.0-native, 7.2-native, 7-native, native, 7.2.0-native-bullseye, 7.2-native-bullseye, 7-native-bullseye, native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: bf684dd97ae761c92cac0070049a6aae7e325fe8
+GitCommit: f0796478136a744f3ca6003d3aae963840bc80b5
 Directory: 7.2
 File: Dockerfile.native
