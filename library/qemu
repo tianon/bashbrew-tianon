@@ -5,33 +5,33 @@ GitRepo: https://github.com/tianon/docker-qemu.git
 
 Tags: 7.0.0, 7.0, 7.0.0-bullseye, 7.0-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: d32fe0b141642784123f43514b4edb76d232c81a
+GitCommit: 12326b74149f2947c9ef2df84eab32fe4800ccf1
 Directory: 7.0
 
 Tags: 7.0.0-native, 7.0-native, 7.0.0-native-bullseye, 7.0-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: d32fe0b141642784123f43514b4edb76d232c81a
+GitCommit: 12326b74149f2947c9ef2df84eab32fe4800ccf1
 Directory: 7.0
 File: Dockerfile.native
 
 Tags: 7.1.0, 7.1, 7.1.0-bullseye, 7.1-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: d32fe0b141642784123f43514b4edb76d232c81a
+GitCommit: 12326b74149f2947c9ef2df84eab32fe4800ccf1
 Directory: 7.1
 
 Tags: 7.1.0-native, 7.1-native, 7.1.0-native-bullseye, 7.1-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: d32fe0b141642784123f43514b4edb76d232c81a
+GitCommit: 12326b74149f2947c9ef2df84eab32fe4800ccf1
 Directory: 7.1
 File: Dockerfile.native
 
 Tags: 7.2.0, 7.2, 7, latest, 7.2.0-bullseye, 7.2-bullseye, 7-bullseye, bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: f0796478136a744f3ca6003d3aae963840bc80b5
+GitCommit: 12326b74149f2947c9ef2df84eab32fe4800ccf1
 Directory: 7.2
 
 Tags: 7.2.0-native, 7.2-native, 7-native, native, 7.2.0-native-bullseye, 7.2-native-bullseye, 7-native-bullseye, native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: f0796478136a744f3ca6003d3aae963840bc80b5
+GitCommit: 12326b74149f2947c9ef2df84eab32fe4800ccf1
 Directory: 7.2
 File: Dockerfile.native
