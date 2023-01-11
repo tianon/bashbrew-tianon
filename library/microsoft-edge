@@ -9,6 +9,6 @@ Tags: 109.0.1518.44-1-beta, 109.0.1518.44-beta, 109.0.1518-beta, 109.0-beta, 109
 GitCommit: a42f1ca53594b7c8f2d0ce628a66e83664272399
 Directory: microsoft-edge/beta
 
-Tags: 110.0.1587.1-1-dev, 110.0.1587.1-dev, 110.0.1587-dev, 110.0-dev, 110-dev, dev
-GitCommit: 38deb2d999c63432b8b9ce4ed156fef7018dbf48
+Tags: 110.0.1587.6-1-dev, 110.0.1587.6-dev, 110.0.1587-dev, 110.0-dev, 110-dev, dev
+GitCommit: 5957726dc0893020f6cc640cb40b1fa045dd695d
 Directory: microsoft-edge/dev
