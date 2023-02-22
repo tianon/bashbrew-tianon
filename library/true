@@ -4,8 +4,3 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: latest
 GitCommit: bfa71889cd8e48e7a1d2632422785c479bd9bd45
 Directory: true
-
-Tags: yolo
-GitCommit: 71ee92d2d917fa81115bc971c5ea7b1bd5aef0fe
-Directory: true
-File: Dockerfile.yolo
