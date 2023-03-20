@@ -1,5 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/gosleep.git
+Builder: buildkit
 
 Tags: 1.0, 1, latest
 GitCommit: c239ec637afd34ffc068c485657084b610810bdc
