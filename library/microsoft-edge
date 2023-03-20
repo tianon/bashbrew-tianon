@@ -9,6 +9,6 @@ Tags: 112.0.1722.11-1-beta, 112.0.1722.11-beta, 112.0.1722-beta, 112.0-beta, 112
 GitCommit: 7657f11a6bbac3aef13bec845dabfe0400f8be34
 Directory: microsoft-edge/beta
 
-Tags: 112.0.1722.7-1-dev, 112.0.1722.7-dev, 112.0.1722-dev, 112.0-dev, 112-dev, dev
-GitCommit: bcf2b2b5637905c9c3391e874da37605307ef76f
+Tags: 113.0.1741.1-1-dev, 113.0.1741.1-dev, 113.0.1741-dev, 113.0-dev, 113-dev, dev
+GitCommit: 1d13c5145f60a100a686d924018b4fb364e99551
 Directory: microsoft-edge/dev
