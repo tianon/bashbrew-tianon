@@ -4,3 +4,8 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: latest, dind
 GitCommit: 80e7e878c3bad8d353cfde97b29aa80457cfa840
 Directory: docker-master
+
+Tags: containerd
+GitCommit: b599499292b75c9f01f8f8cd3141a288028fffc9
+Directory: docker-master
+File: Dockerfile.containerd
