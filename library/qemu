@@ -25,13 +25,13 @@ GitCommit: 12326b74149f2947c9ef2df84eab32fe4800ccf1
 Directory: 7.2
 File: Dockerfile.native
 
-Tags: 8.0.0-rc2, 8.0-rc, 8.0.0-rc2-bullseye, 8.0-rc-bullseye
+Tags: 8.0.0-rc3, 8.0-rc, 8.0.0-rc3-bullseye, 8.0-rc-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 4b8b9f4f03848d7e19e5bb742d27b9053cb59b79
+GitCommit: 8c47aee549315304af660448a8fe60e5b4675b38
 Directory: 8.0-rc
 
-Tags: 8.0.0-rc2-native, 8.0-rc-native, 8.0.0-rc2-native-bullseye, 8.0-rc-native-bullseye
+Tags: 8.0.0-rc3-native, 8.0-rc-native, 8.0.0-rc3-native-bullseye, 8.0-rc-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 4b8b9f4f03848d7e19e5bb742d27b9053cb59b79
+GitCommit: 8c47aee549315304af660448a8fe60e5b4675b38
 Directory: 8.0-rc
 File: Dockerfile.native
