@@ -14,14 +14,14 @@ GitCommit: 12326b74149f2947c9ef2df84eab32fe4800ccf1
 Directory: 7.1
 File: Dockerfile.native
 
-Tags: 7.2.0, 7.2, 7, latest, 7.2.0-bullseye, 7.2-bullseye, 7-bullseye, bullseye
+Tags: 7.2.1, 7.2, 7, latest, 7.2.1-bullseye, 7.2-bullseye, 7-bullseye, bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 12326b74149f2947c9ef2df84eab32fe4800ccf1
+GitCommit: 114d27317ebbd1b1a8a28eff7f6f1224995f21ba
 Directory: 7.2
 
-Tags: 7.2.0-native, 7.2-native, 7-native, native, 7.2.0-native-bullseye, 7.2-native-bullseye, 7-native-bullseye, native-bullseye
+Tags: 7.2.1-native, 7.2-native, 7-native, native, 7.2.1-native-bullseye, 7.2-native-bullseye, 7-native-bullseye, native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 12326b74149f2947c9ef2df84eab32fe4800ccf1
+GitCommit: 114d27317ebbd1b1a8a28eff7f6f1224995f21ba
 Directory: 7.2
 File: Dockerfile.native
 
