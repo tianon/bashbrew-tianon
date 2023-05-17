@@ -9,8 +9,8 @@ Tags: alertmanager-0.25.0, alertmanager-0.25, alertmanager-0, alertmanager
 GitCommit: 6957b951d2af5eaad50365fe3f4918b67a450809
 Directory: prometheus/alertmanager
 
-Tags: blackbox-exporter-0.23.0, blackbox-exporter-0.23, blackbox-exporter-0, blackbox-exporter
-GitCommit: a61a6232a0ea25a56788207a5d1ab102c6f9665b
+Tags: blackbox-exporter-0.24.0, blackbox-exporter-0.24, blackbox-exporter-0, blackbox-exporter
+GitCommit: b24de7af95b5693c2626121b334547e282b1d5de
 Directory: prometheus/blackbox-exporter
 
 Tags: node-exporter-1.5.0, node-exporter-1.5, node-exporter-1, node-exporter
