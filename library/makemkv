@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 1.17.4, 1.17, 1, latest
-GitCommit: bcc57d076064f39d30dc04a504f061b5f00d7de4
+GitCommit: e7465c8064464d81c23097fccc972b0a539d31bc
 Directory: makemkv
