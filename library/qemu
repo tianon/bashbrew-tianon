@@ -14,24 +14,24 @@ GitCommit: 614b8e11fb071bfaf161e211e34e7f78d59d4364
 Directory: 7.1
 File: Dockerfile.native
 
-Tags: 7.2.2, 7.2, 7, 7.2.2-bullseye, 7.2-bullseye, 7-bullseye
+Tags: 7.2.3, 7.2, 7, 7.2.3-bullseye, 7.2-bullseye, 7-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 59dc3213f71858d4ba1b9c40051bd230cc30353a
+GitCommit: 50f6f5b303394fd5c5f0d55401b2457b6214e660
 Directory: 7.2
 
-Tags: 7.2.2-native, 7.2-native, 7-native, 7.2.2-native-bullseye, 7.2-native-bullseye, 7-native-bullseye
+Tags: 7.2.3-native, 7.2-native, 7-native, 7.2.3-native-bullseye, 7.2-native-bullseye, 7-native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 59dc3213f71858d4ba1b9c40051bd230cc30353a
+GitCommit: 50f6f5b303394fd5c5f0d55401b2457b6214e660
 Directory: 7.2
 File: Dockerfile.native
 
-Tags: 8.0.0, 8.0, 8, latest, 8.0.0-bullseye, 8.0-bullseye, 8-bullseye, bullseye
+Tags: 8.0.2, 8.0, 8, latest, 8.0.2-bullseye, 8.0-bullseye, 8-bullseye, bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 614b8e11fb071bfaf161e211e34e7f78d59d4364
+GitCommit: 50f6f5b303394fd5c5f0d55401b2457b6214e660
 Directory: 8.0
 
-Tags: 8.0.0-native, 8.0-native, 8-native, native, 8.0.0-native-bullseye, 8.0-native-bullseye, 8-native-bullseye, native-bullseye
+Tags: 8.0.2-native, 8.0-native, 8-native, native, 8.0.2-native-bullseye, 8.0-native-bullseye, 8-native-bullseye, native-bullseye
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
-GitCommit: 614b8e11fb071bfaf161e211e34e7f78d59d4364
+GitCommit: 50f6f5b303394fd5c5f0d55401b2457b6214e660
 Directory: 8.0
 File: Dockerfile.native
