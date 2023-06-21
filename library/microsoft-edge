@@ -9,6 +9,6 @@ Tags: 115.0.1901.14-1-beta, 115.0.1901.14-beta, 115.0.1901-beta, 115.0-beta, 115
 GitCommit: 60c364282b1ba22cc82a49315b5ad70a1153d9a9
 Directory: microsoft-edge/beta
 
-Tags: 116.0.1908.0-1-dev, 116.0.1908.0-dev, 116.0.1908-dev, 116.0-dev, 116-dev, dev
-GitCommit: de4cf6978b7ade8221da3535c5b20a8cfc238863
+Tags: 116.0.1923.0-1-dev, 116.0.1923.0-dev, 116.0.1923-dev, 116.0-dev, 116-dev, dev
+GitCommit: bd1f52d9a44a5bf9fd8cf9c38dace598aa3987e5
 Directory: microsoft-edge/dev
