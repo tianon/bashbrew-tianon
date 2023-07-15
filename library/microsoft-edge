@@ -5,8 +5,8 @@ Tags: 114.0.1823.82-1-stable, 114.0.1823.82-stable, 114.0.1823-stable, 114.0-sta
 GitCommit: cc756a0fdb2d5888ec5183afa62119d06481f66f
 Directory: microsoft-edge/stable
 
-Tags: 115.0.1901.170-1-beta, 115.0.1901.170-beta, 115.0.1901-beta, 115.0-beta, 115-beta, beta
-GitCommit: 9f2d2f2194b99b82cf9e74821b43ff3a60811514
+Tags: 115.0.1901.175-1-beta, 115.0.1901.175-beta, 115.0.1901-beta, 115.0-beta, 115-beta, beta
+GitCommit: e3fe915bd6405a0b6303c2c60b59fc1e03a6484b
 Directory: microsoft-edge/beta
 
 Tags: 116.0.1938.16-1-dev, 116.0.1938.16-dev, 116.0.1938-dev, 116.0-dev, 116-dev, dev
