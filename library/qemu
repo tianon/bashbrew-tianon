@@ -1,10 +1,10 @@
-# this file is generated via https://github.com/tianon/docker-qemu/blob/33de7ca763d46ffea1a3958e659654d4782eb5f6/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-qemu/blob/2e75dfe1bb99459145e6b8de1d4066dc61cb1db4/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
 
 Tags: 7.2.4, 7.2, 7, 7.2.4-bookworm, 7.2-bookworm, 7-bookworm
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+Architectures: amd64
 GitCommit: 4c72c0f2b4aebc03b09347bc8f5d3e6f8f7dfec5
 Directory: 7.2
 
@@ -15,7 +15,7 @@ Directory: 7.2
 File: Dockerfile.native
 
 Tags: 8.0.3, 8.0, 8, latest, 8.0.3-bookworm, 8.0-bookworm, 8-bookworm, bookworm
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+Architectures: amd64
 GitCommit: 4c72c0f2b4aebc03b09347bc8f5d3e6f8f7dfec5
 Directory: 8.0
 
@@ -26,7 +26,7 @@ Directory: 8.0
 File: Dockerfile.native
 
 Tags: 8.1.0-rc2, 8.1-rc, 8.1.0-rc2-bookworm, 8.1-rc-bookworm
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+Architectures: amd64
 GitCommit: 8ed5e607526d1b1148f85ab238815642692f8cc0
 Directory: 8.1-rc
 
