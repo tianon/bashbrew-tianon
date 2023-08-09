@@ -7,6 +7,6 @@ Tags: 1.23.7-rc.2, 1-rc, rc
 GitCommit: c5bc679f97426ba51d525e641dbf91243839d07e
 Directory: 1-rc
 
-Tags: 1.23.6, 1.23, 1, latest
-GitCommit: f0a0152cfcc7f45f7283246be64eb49b63ec5a8e
+Tags: 1.23.7, 1.23, 1, latest
+GitCommit: 011d3ee120ba6f43091ae8f8fa32b29513fcb536
 Directory: 1
