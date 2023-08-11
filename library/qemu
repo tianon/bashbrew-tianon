@@ -25,13 +25,13 @@ GitCommit: 4c72c0f2b4aebc03b09347bc8f5d3e6f8f7dfec5
 Directory: 8.0
 File: Dockerfile.native
 
-Tags: 8.1.0-rc2, 8.1-rc, 8.1.0-rc2-bookworm, 8.1-rc-bookworm
+Tags: 8.1.0-rc3, 8.1-rc, 8.1.0-rc3-bookworm, 8.1-rc-bookworm
 Architectures: amd64
-GitCommit: 8ed5e607526d1b1148f85ab238815642692f8cc0
+GitCommit: 9b3331ea0ba706b6deb309b2fff11cf9dcca5e64
 Directory: 8.1-rc
 
-Tags: 8.1.0-rc2-native, 8.1-rc-native, 8.1.0-rc2-native-bookworm, 8.1-rc-native-bookworm
+Tags: 8.1.0-rc3-native, 8.1-rc-native, 8.1.0-rc3-native-bookworm, 8.1-rc-native-bookworm
 Architectures: amd64, arm32v5, arm32v7, arm64v8, mips64le, ppc64le, s390x
-GitCommit: 8ed5e607526d1b1148f85ab238815642692f8cc0
+GitCommit: 9b3331ea0ba706b6deb309b2fff11cf9dcca5e64
 Directory: 8.1-rc
 File: Dockerfile.native
