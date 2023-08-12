@@ -2,6 +2,7 @@
 
 _dir="$(dirname "$BASH_SOURCE")"
 : "${dir:=$_dir}"
+dir="$(readlink -ve "$dir")"
 case "${BASHBREW_NAMESPACE:-}" in
 	'' | tianon)
 		export BASHBREW_LIBRARY="$dir/library" BASHBREW_NAMESPACE='tianon'
