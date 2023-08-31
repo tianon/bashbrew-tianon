@@ -5,8 +5,8 @@ Tags: 2.46.0, 2.46, 2, latest
 GitCommit: fe57395fc230a19643a38111018d2bf1eb93d5bf
 Directory: prometheus
 
-Tags: alertmanager-0.25.0, alertmanager-0.25, alertmanager-0, alertmanager
-GitCommit: fe57395fc230a19643a38111018d2bf1eb93d5bf
+Tags: alertmanager-0.26.0, alertmanager-0.26, alertmanager-0, alertmanager
+GitCommit: a811b8540b32a396e495b58c47f151f580950daf
 Directory: prometheus/alertmanager
 
 Tags: blackbox-exporter-0.24.0, blackbox-exporter-0.24, blackbox-exporter-0, blackbox-exporter
