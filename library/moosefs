@@ -1,12 +1,14 @@
-# this file is generated via https://github.com/tianon/docker-moosefs/blob/3df26ffa4ed943e9c760a3f82ece9f4aa13785c3/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-moosefs/blob/28547062635e7034dd42d5132a1f9f936c0b2f28/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-moosefs.git
 
 Tags: 3.0.117, 3.0, 3, latest
-GitCommit: 235f5c9535547e872abc408597e20c61cdf19ed9
+GitCommit: 944fd97b2467fa057baa29455a7b27bf54d87b41
 Directory: 3
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 
 Tags: volume-driver
-GitCommit: 31181375f61747149022e24f00df6e7cf4a066e0
+GitCommit: cc8ec89968ade866e6bb4f1fa042190398969b63
 Directory: mfs-volume-driver
+Architectures: amd64, arm32v7, arm64v8, i386, ppc64le, s390x
