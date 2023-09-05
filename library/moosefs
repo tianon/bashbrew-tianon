@@ -4,7 +4,7 @@ Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-moosefs.git
 
 Tags: 3.0.117, 3.0, 3, latest
-GitCommit: 944fd97b2467fa057baa29455a7b27bf54d87b41
+GitCommit: 8c65454d4438b31504aa51fb63f229860b216ea9
 Directory: 3
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 
