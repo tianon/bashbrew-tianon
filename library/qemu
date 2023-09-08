@@ -1,4 +1,4 @@
-# this file is generated via https://github.com/tianon/docker-qemu/blob/5827f68fefe35ee986101a31c59727971e75880e/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-qemu/blob/a53c41fa8c49dd3aed24cb8a8549877dd31a2ca3/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
@@ -9,7 +9,7 @@ GitCommit: 1b3d05f9bd48671089e84d0c452365f51df88b79
 Directory: 7.2
 
 Tags: 7.2.5-native, 7.2-native, 7-native, 7.2.5-native-bookworm, 7.2-native-bookworm, 7-native-bookworm
-Architectures: amd64, arm32v5, arm32v7, arm64v8, mips64le, ppc64le, s390x
+Architectures: amd64, arm32v7, arm64v8
 GitCommit: 1b3d05f9bd48671089e84d0c452365f51df88b79
 Directory: 7.2
 File: Dockerfile.native
@@ -20,7 +20,7 @@ GitCommit: 1b3d05f9bd48671089e84d0c452365f51df88b79
 Directory: 8.0
 
 Tags: 8.0.4-native, 8.0-native, 8.0.4-native-bookworm, 8.0-native-bookworm
-Architectures: amd64, arm32v5, arm32v7, arm64v8, mips64le, ppc64le, s390x
+Architectures: amd64, arm32v7, arm64v8
 GitCommit: 1b3d05f9bd48671089e84d0c452365f51df88b79
 Directory: 8.0
 File: Dockerfile.native
@@ -31,7 +31,7 @@ GitCommit: 5827f68fefe35ee986101a31c59727971e75880e
 Directory: 8.1
 
 Tags: 8.1.0-native, 8.1-native, 8-native, native, 8.1.0-native-bookworm, 8.1-native-bookworm, 8-native-bookworm, native-bookworm
-Architectures: amd64, arm32v5, arm32v7, arm64v8, mips64le, ppc64le, s390x
+Architectures: amd64, arm32v7, arm64v8
 GitCommit: 5827f68fefe35ee986101a31c59727971e75880e
 Directory: 8.1
 File: Dockerfile.native
