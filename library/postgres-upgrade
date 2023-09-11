@@ -2,63 +2,63 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/docker-postgres-upgrade.git
 
 Tags: 10-to-11
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 10-to-11
 
 Tags: 10-to-12
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 10-to-12
 
 Tags: 10-to-13
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 10-to-13
 
 Tags: 10-to-14
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 10-to-14
 
 Tags: 10-to-15
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 10-to-15
 
 Tags: 11-to-12
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 11-to-12
 
 Tags: 11-to-13
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 11-to-13
 
 Tags: 11-to-14
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 11-to-14
 
 Tags: 11-to-15
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 11-to-15
 
 Tags: 12-to-13
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 12-to-13
 
 Tags: 12-to-14
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 12-to-14
 
 Tags: 12-to-15
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 12-to-15
 
 Tags: 13-to-14
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 13-to-14
 
 Tags: 13-to-15
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 13-to-15
 
 Tags: 14-to-15
-GitCommit: bf76827087a15c574807781ddd2dc5f5dc99326e
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 14-to-15
 
 Tags: 9.6-to-10
@@ -66,21 +66,21 @@ GitCommit: 25b3ce49d38da38024c4b298cf3a1f4bfa7faa76
 Directory: 9.6-to-10
 
 Tags: 9.6-to-11
-GitCommit: 25b3ce49d38da38024c4b298cf3a1f4bfa7faa76
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 9.6-to-11
 
 Tags: 9.6-to-12
-GitCommit: 25b3ce49d38da38024c4b298cf3a1f4bfa7faa76
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 9.6-to-12
 
 Tags: 9.6-to-13
-GitCommit: 25b3ce49d38da38024c4b298cf3a1f4bfa7faa76
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 9.6-to-13
 
 Tags: 9.6-to-14
-GitCommit: 25b3ce49d38da38024c4b298cf3a1f4bfa7faa76
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 9.6-to-14
 
 Tags: 9.6-to-15
-GitCommit: 25b3ce49d38da38024c4b298cf3a1f4bfa7faa76
+GitCommit: 036b04f31b1ee628bd2a0dc047715d27ebca6396
 Directory: 9.6-to-15
