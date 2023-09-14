@@ -1,0 +1,8 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/dockerfiles.git
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x, riscv64
+
+Tags: 20.10.25, 20.10, 20, latest
+GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
+Directory: infosiftr-moby
+riscv64-File: Dockerfile.unstable
