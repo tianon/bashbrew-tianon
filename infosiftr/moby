@@ -6,3 +6,49 @@ Tags: 20.10.25, 20.10, 20, latest
 GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
 Directory: infosiftr-moby
 riscv64-File: Dockerfile.unstable
+
+Tags: amd64
+GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
+Directory: infosiftr-moby
+Architectures: amd64
+
+Tags: arm32v5
+GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
+Directory: infosiftr-moby
+Architectures: arm32v5
+
+Tags: arm32v7
+GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
+Directory: infosiftr-moby
+Architectures: arm32v7
+
+Tags: arm64v8
+GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
+Directory: infosiftr-moby
+Architectures: arm64v8
+
+Tags: i386
+GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
+Directory: infosiftr-moby
+Architectures: i386
+
+Tags: mips64le
+GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
+Directory: infosiftr-moby
+Architectures: mips64le
+
+Tags: ppc64le
+GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
+Directory: infosiftr-moby
+Architectures: ppc64le
+
+Tags: s390x
+GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
+Directory: infosiftr-moby
+Architectures: s390x
+
+Tags: riscv64
+GitCommit: 31340642cd1c98f0a6cd3b7d65bf5a2d48d7c8ae
+Directory: infosiftr-moby
+Architectures: riscv64
+riscv64-File: Dockerfile.unstable
