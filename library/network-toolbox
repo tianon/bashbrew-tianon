@@ -1,10 +1,12 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: alpine, alpine3.18
-GitCommit: 1bcd0ca8c41a28e716b8ab4fea495d809b052709
-Directory: network-toolbox/alpine
-
 Tags: debian, bullseye, latest
 GitCommit: 541108e37e2619200735bfb7c26105514426ed40
 Directory: network-toolbox/debian
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+
+Tags: alpine, alpine3.18
+GitCommit: 1bcd0ca8c41a28e716b8ab4fea495d809b052709
+Directory: network-toolbox/alpine
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
