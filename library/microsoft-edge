@@ -9,6 +9,6 @@ Tags: 118.0.2088.11-1-beta, 118.0.2088.11-beta, 118.0.2088-beta, 118.0-beta, 118
 GitCommit: a1da1ee733fff8f9816c6498988819a86b85b8fe
 Directory: microsoft-edge/beta
 
-Tags: 118.0.2088.9-1-dev, 118.0.2088.9-dev, 118.0.2088-dev, 118.0-dev, 118-dev, dev
-GitCommit: 8b268bb277318457ba44d981c1aabad83eaaf0b8
+Tags: 119.0.2109.1-1-dev, 119.0.2109.1-dev, 119.0.2109-dev, 119.0-dev, 119-dev, dev
+GitCommit: 758689275b30ea5a791947e4d202e8553c6aa8d3
 Directory: microsoft-edge/dev
