@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 118.0, 118, latest
-GitCommit: b0dd1814a8961115c6f0e54cc440260f60edfe52
+Tags: 118.0.1, 118.0, 118, latest
+GitCommit: d2c1cd25154e4087c441725693ce2bdfa4873fa5
 Directory: firefox
