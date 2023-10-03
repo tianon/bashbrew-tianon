@@ -8,7 +8,7 @@ GitCommit: b29b1074df9d2480b14b7eb83f7df40b659fb8bc
 Directory: 1-rc
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 
-Tags: 1.24.0, 1.24, 1, latest
-GitCommit: 692d0ad17a31804803813b74e92a9ee26f50380e
+Tags: 1.25.0, 1.25, 1, latest
+GitCommit: c98765291474b087adeb01daae4255de78fb81c4
 Directory: 1
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
