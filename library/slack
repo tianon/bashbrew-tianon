@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 4.34.120, 4.34, 4, latest
-GitCommit: 0a0fbf4053f811fd4d7780863ad00ef6c1ac7238
+Tags: 4.34.121, 4.34, 4, latest
+GitCommit: 0d6f2ecc5918e611ff75c83491be1536f19aab66
 Directory: slack
