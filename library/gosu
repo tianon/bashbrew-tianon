@@ -1,0 +1,80 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/gosu.git
+GitCommit: 0e7347714352cd7f2e5edc9d2cf838d9934e6036
+Directory: hub
+Builder: buildkit
+
+Tags: alpine-amd64, amd64
+SharedTags: alpine, 1.16-alpine, 1.16, latest
+Architectures: amd64
+File: Dockerfile.alpine
+
+Tags: alpine-arm32v6, arm32v6
+SharedTags: alpine, 1.16-alpine, 1.16, latest
+Architectures: arm32v6
+File: Dockerfile.alpine
+
+Tags: alpine-arm32v7, arm32v7
+SharedTags: alpine, 1.16-alpine, 1.16, latest
+Architectures: arm32v7
+File: Dockerfile.alpine
+
+Tags: alpine-arm64v8, arm64v8
+SharedTags: alpine, 1.16-alpine, 1.16, latest
+Architectures: arm64v8
+File: Dockerfile.alpine
+
+Tags: alpine-i386, i386
+SharedTags: alpine, 1.16-alpine, 1.16, latest
+Architectures: i386
+File: Dockerfile.alpine
+
+Tags: alpine-ppc64le, ppc64le
+SharedTags: alpine, 1.16-alpine, 1.16, latest
+Architectures: ppc64le
+File: Dockerfile.alpine
+
+Tags: alpine-s390x, s390x
+SharedTags: alpine, 1.16-alpine, 1.16, latest
+Architectures: s390x
+File: Dockerfile.alpine
+
+Tags: debian-amd64
+SharedTags: debian, 1.16-debian
+Architectures: amd64
+File: Dockerfile.debian
+
+Tags: debian-arm32v5, arm32v5
+SharedTags: debian, 1.16-debian, 1.16, latest
+Architectures: arm32v5
+File: Dockerfile.debian
+
+Tags: debian-arm32v7
+SharedTags: debian, 1.16-debian
+Architectures: arm32v7
+File: Dockerfile.debian
+
+Tags: debian-arm64v8
+SharedTags: debian, 1.16-debian
+Architectures: arm64v8
+File: Dockerfile.debian
+
+Tags: debian-i386
+SharedTags: debian, 1.16-debian
+Architectures: i386
+File: Dockerfile.debian
+
+Tags: debian-mips64le, mips64le
+SharedTags: debian, 1.16-debian, 1.16, latest
+Architectures: mips64le
+File: Dockerfile.debian
+
+Tags: debian-ppc64le
+SharedTags: debian, 1.16-debian
+Architectures: ppc64le
+File: Dockerfile.debian
+
+Tags: debian-s390x
+SharedTags: debian, 1.16-debian
+Architectures: s390x
+File: Dockerfile.debian
