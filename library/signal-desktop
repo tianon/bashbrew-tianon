@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 6.34.0, 6.34, 6, latest
-GitCommit: a3d68dd613b53a7be3209a8e6dfb07990e49a482
+Tags: 6.34.1, 6.34, 6, latest
+GitCommit: c45033301ccaf29c0ac31fdfa81769cb27404da9
 Directory: signal-desktop
