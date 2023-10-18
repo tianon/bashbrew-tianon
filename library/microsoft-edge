@@ -9,6 +9,6 @@ Tags: 119.0.2151.12-1-beta, 119.0.2151.12-beta, 119.0.2151-beta, 119.0-beta, 119
 GitCommit: 0c0bca295b633460a20e802620d874b52e2c9e10
 Directory: microsoft-edge/beta
 
-Tags: 119.0.2151.2-1-dev, 119.0.2151.2-dev, 119.0.2151-dev, 119.0-dev, 119-dev, dev
-GitCommit: dd9c5b93095c41e1905b72e4e5592ce8746c8284
+Tags: 120.0.2165.1-1-dev, 120.0.2165.1-dev, 120.0.2165-dev, 120.0-dev, 120-dev, dev
+GitCommit: 8aa62a94a449a9812ad58db55e7a4e31c5d5d5d8
 Directory: microsoft-edge/dev
