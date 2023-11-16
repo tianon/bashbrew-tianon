@@ -27,11 +27,11 @@ File: Dockerfile.native
 
 Tags: 8.2.0-rc0, 8.2-rc, 8.2.0-rc0-bookworm, 8.2-rc-bookworm
 Architectures: amd64
-GitCommit: d0280d83d961b1958fb3d8b37c696ec6243ce0e3
+GitCommit: 954a8e4629e6d4a21ca64eaeac0221bdb259ef47
 Directory: 8.2-rc
 
 Tags: 8.2.0-rc0-native, 8.2-rc-native, 8.2.0-rc0-native-bookworm, 8.2-rc-native-bookworm
 Architectures: amd64, arm32v7, arm64v8
-GitCommit: d0280d83d961b1958fb3d8b37c696ec6243ce0e3
+GitCommit: 954a8e4629e6d4a21ca64eaeac0221bdb259ef47
 Directory: 8.2-rc
 File: Dockerfile.native
