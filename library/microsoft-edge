@@ -9,6 +9,6 @@ Tags: 120.0.2210.7-1-beta, 120.0.2210.7-beta, 120.0.2210-beta, 120.0-beta, 120-b
 GitCommit: 445d40109a05471df0fdb63cbfbe1e9fbe63bc5c
 Directory: microsoft-edge/beta
 
-Tags: 120.0.2210.7-1-dev, 120.0.2210.7-dev, 120.0.2210-dev, 120.0-dev, 120-dev, dev
-GitCommit: 219558adc9a273e77842eb93e6c46769589a9fc6
+Tags: 121.0.2220.3-1-dev, 121.0.2220.3-dev, 121.0.2220-dev, 121.0-dev, 121-dev, dev
+GitCommit: cc56916c12b3c292f0a0231ac66fd00260fdcbc3
 Directory: microsoft-edge/dev
