@@ -3,7 +3,7 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Architectures: amd64, arm64v8, ppc64le, s390x
 
 Tags: 1.7.9, 1.7, 1, latest
-GitCommit: f4213c34e42dc17a2a2dda42789cb484ec1b8377
+GitCommit: 9daf3b805959d104b82161e665c4c98460badb60
 Directory: containerd
 
 Tags: 1.7.9-c8dind, 1.7-c8dind, 1-c8dind, c8dind
