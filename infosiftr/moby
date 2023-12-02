@@ -2,53 +2,53 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x, riscv64
 
-Tags: 20.10.25, 20.10, 20, latest
-GitCommit: 1af33800972522b976326d2bef2be67313bafbb2
+Tags: 20.10.26, 20.10, 20, latest
+GitCommit: f239a091f7ed37971831afaeab77d1dbdafaaefe
 Directory: infosiftr-moby
 riscv64-File: Dockerfile.unstable
 
 Tags: amd64
-GitCommit: 1af33800972522b976326d2bef2be67313bafbb2
+GitCommit: f239a091f7ed37971831afaeab77d1dbdafaaefe
 Directory: infosiftr-moby
 Architectures: amd64
 
 Tags: arm32v5
-GitCommit: 1af33800972522b976326d2bef2be67313bafbb2
+GitCommit: f239a091f7ed37971831afaeab77d1dbdafaaefe
 Directory: infosiftr-moby
 Architectures: arm32v5
 
 Tags: arm32v7
-GitCommit: 1af33800972522b976326d2bef2be67313bafbb2
+GitCommit: f239a091f7ed37971831afaeab77d1dbdafaaefe
 Directory: infosiftr-moby
 Architectures: arm32v7
 
 Tags: arm64v8
-GitCommit: 1af33800972522b976326d2bef2be67313bafbb2
+GitCommit: f239a091f7ed37971831afaeab77d1dbdafaaefe
 Directory: infosiftr-moby
 Architectures: arm64v8
 
 Tags: i386
-GitCommit: 1af33800972522b976326d2bef2be67313bafbb2
+GitCommit: f239a091f7ed37971831afaeab77d1dbdafaaefe
 Directory: infosiftr-moby
 Architectures: i386
 
 Tags: mips64le
-GitCommit: 1af33800972522b976326d2bef2be67313bafbb2
+GitCommit: f239a091f7ed37971831afaeab77d1dbdafaaefe
 Directory: infosiftr-moby
 Architectures: mips64le
 
 Tags: ppc64le
-GitCommit: 1af33800972522b976326d2bef2be67313bafbb2
+GitCommit: f239a091f7ed37971831afaeab77d1dbdafaaefe
 Directory: infosiftr-moby
 Architectures: ppc64le
 
 Tags: s390x
-GitCommit: 1af33800972522b976326d2bef2be67313bafbb2
+GitCommit: f239a091f7ed37971831afaeab77d1dbdafaaefe
 Directory: infosiftr-moby
 Architectures: s390x
 
 Tags: riscv64
-GitCommit: 1af33800972522b976326d2bef2be67313bafbb2
+GitCommit: f239a091f7ed37971831afaeab77d1dbdafaaefe
 Directory: infosiftr-moby
 Architectures: riscv64
 riscv64-File: Dockerfile.unstable
