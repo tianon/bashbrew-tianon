@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 2.1.4, 2.1, 2, latest
-GitCommit: e4519acdfbfd96804ac9126a8ed84c4aa5fcac11
+Tags: 2.1.5, 2.1, 2, latest
+GitCommit: cb6fd54a52a5796ee7309d64cdd81ec963e3e69a
 Directory: duplicity
