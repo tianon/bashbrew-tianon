@@ -9,6 +9,6 @@ Tags: 121.0.2277.49-1-beta, 121.0.2277.49-beta, 121.0.2277-beta, 121.0-beta, 121
 GitCommit: a437dd94b4068cb1cb6347dbef0d93c55374b82a
 Directory: microsoft-edge/beta
 
-Tags: 121.0.2277.4-1-dev, 121.0.2277.4-dev, 121.0.2277-dev, 121.0-dev, 121-dev, dev
-GitCommit: eb9e986e11e76b9fb6a3f67a12690674d83eb8bf
+Tags: 122.0.2325.0-1-dev, 122.0.2325.0-dev, 122.0.2325-dev, 122.0-dev, 122-dev, dev
+GitCommit: c8e42156c78987b017743af01f3fff9b6e5172f1
 Directory: microsoft-edge/dev
