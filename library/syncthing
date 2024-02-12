@@ -9,6 +9,6 @@ Directory: 1-rc
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 
 Tags: 1.27.3, 1.27, 1, latest
-GitCommit: 974db7fc25d997adbd7df7ae9c908f8fb737fe88
+GitCommit: 70c804d4cbe69e3139d1da88462c027aae9cda83
 Directory: 1
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
