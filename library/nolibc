@@ -3,5 +3,5 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, s390x
 
 Tags: linux-6.7.6, latest
-GitCommit: c1b5232f3183182f31ef824b3b460de88b35e0f8
+GitCommit: 71d4246f07c021b9bc37ecede7e42e592470b7fd
 Directory: nolibc
