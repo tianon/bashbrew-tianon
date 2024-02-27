@@ -5,8 +5,8 @@ Tags: latest
 GitCommit: 7ffacf1cb72d1c615d7eb8fedfdd75e25ede42fe
 Directory: sleeping-beauty
 
-Tags: multiarch
-GitCommit: c6beda64ffc8492cd2ec9d998946b297d1039d78
+Tags: nolibc
+GitCommit: 9fd71d580a6fbbceb4dc36d4bff249b7977fe2cf
 Directory: sleeping-beauty
-File: Dockerfile.multiarch
+File: Dockerfile.nolibc
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, s390x
