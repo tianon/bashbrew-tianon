@@ -9,4 +9,4 @@ Tags: nolibc
 GitCommit: 9fd71d580a6fbbceb4dc36d4bff249b7977fe2cf
 Directory: sleeping-beauty
 File: Dockerfile.nolibc
-Architectures: amd64, arm64v8, i386
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, s390x
