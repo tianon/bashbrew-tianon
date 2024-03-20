@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/gosu.git
-GitCommit: 2dada3bb5dfbc1e7162a29907691b6f45995d54e
+GitCommit: f0ea85bbe86fb43b2344fd69d44a19b7cfa10050
 Directory: hub
 Builder: buildkit
 
