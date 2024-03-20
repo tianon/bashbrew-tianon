@@ -9,6 +9,6 @@ Tags: 123.0.2420.41-1-beta, 123.0.2420.41-beta, 123.0.2420-beta, 123.0-beta, 123
 GitCommit: 6bfdb76f2b4bb1ae40bc6fce77a2f531c7a0ae79
 Directory: microsoft-edge/beta
 
-Tags: 124.0.2450.2-1-dev, 124.0.2450.2-dev, 124.0.2450-dev, 124.0-dev, 124-dev, dev
-GitCommit: 522b773177d94b526dbf2a49e1ae8ea05f5dd4d9
+Tags: 124.0.2464.2-1-dev, 124.0.2464.2-dev, 124.0.2464-dev, 124.0-dev, 124-dev, dev
+GitCommit: ae1f74eab3888a496f9bc458d8a83e352386b232
 Directory: microsoft-edge/dev
