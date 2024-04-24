@@ -1,7 +1,18 @@
-# this file is generated via https://github.com/tianon/docker-qemu/blob/20f89393b390d5c904280360698abc6f64a86c47/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-qemu/blob/a80319e9a4923233418f10cf0843ea918c004497/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
+
+Tags: 7.2.11, 7.2, 7, 7.2.11-bookworm, 7.2-bookworm, 7-bookworm
+Architectures: amd64
+GitCommit: a80319e9a4923233418f10cf0843ea918c004497
+Directory: 7.2
+
+Tags: 7.2.11-native, 7.2-native, 7-native, 7.2.11-native-bookworm, 7.2-native-bookworm, 7-native-bookworm
+Architectures: amd64, arm32v7, arm64v8
+GitCommit: a80319e9a4923233418f10cf0843ea918c004497
+Directory: 7.2
+File: Dockerfile.native
 
 Tags: 8.0.5, 8.0, 8.0.5-bookworm, 8.0-bookworm
 Architectures: amd64
