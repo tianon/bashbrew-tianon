@@ -4,4 +4,3 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 265, latest
 GitCommit: 6968583fd20ccb6b05983e470492ed989b7cdebe
 Directory: diffoscope
-Architectures: amd64, arm64v8

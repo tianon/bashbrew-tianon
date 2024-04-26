@@ -4,4 +4,3 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 6.0.2.4680, 6.0.2, 6.0, 6, latest
 GitCommit: 8af30763ea83a468356f71d3ffbe043cfeb54ee0
 Directory: zoom
-Architectures: amd64, arm64v8

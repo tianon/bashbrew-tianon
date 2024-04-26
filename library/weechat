@@ -4,4 +4,3 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 4.2.2-1, 4.2.2, 4.2, 4, latest
 GitCommit: 58931fb61e952bb243801b17c1a5f99cf3473bbd
 Directory: weechat
-Architectures: amd64, arm64v8

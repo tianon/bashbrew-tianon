@@ -4,4 +4,3 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 7.6.0, 7.6, 7, latest
 GitCommit: 3148dd6c557e18596eecdd9d9dd8e6930e50e288
 Directory: signal-desktop
-Architectures: amd64, arm64v8

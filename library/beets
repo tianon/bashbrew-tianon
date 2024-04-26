@@ -4,4 +4,3 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 1.6.0, 1.6, 1, latest
 GitCommit: 5d5d2e12f7884f5cb016d52c89cf26808fa6cfed
 Directory: beets
-Architectures: amd64, arm64v8

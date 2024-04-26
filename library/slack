@@ -4,4 +4,3 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 4.37.101, 4.37, 4, latest
 GitCommit: 94fe7969daf2699d2a08e09787da55b936812bd5
 Directory: slack
-Architectures: amd64, arm64v8

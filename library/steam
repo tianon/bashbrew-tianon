@@ -4,4 +4,3 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 1.0.0.79, 1.0.0, 1.0, 1, latest
 GitCommit: f1ce74a1b44344f77766a09cc5c999530e535d02
 Directory: steam
-Architectures: amd64, arm64v8

@@ -4,4 +4,3 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 0.31.2, 0.31, 0, latest
 GitCommit: aa6036bf182bfc447671358c39183c1a87548301
 Directory: tinygo
-Architectures: amd64, arm64v8
