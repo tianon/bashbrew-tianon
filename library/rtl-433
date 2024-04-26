@@ -4,3 +4,4 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 23.11, 23, latest
 GitCommit: 35cf3d4487840cc3ae58f3b55f54d198b224eba9
 Directory: rtl-433
+Architectures: amd64, arm64v8

@@ -4,3 +4,4 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 0.8.11, 0.8, 0, latest
 GitCommit: ab3f615c196f4eaa668609eb7e5c4d57f6e96183
 Directory: toybox
+Architectures: amd64, arm64v8

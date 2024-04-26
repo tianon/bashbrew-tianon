@@ -4,3 +4,4 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 125.0.2, 125.0, 125, latest
 GitCommit: 2cd0d8640fe7f9c0245eb3c1d90ac09301cec64d
 Directory: firefox
+Architectures: amd64, arm64v8

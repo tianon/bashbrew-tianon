@@ -4,3 +4,4 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 1.17.6, 1.17, 1, latest
 GitCommit: a7c0cd8035317f3648c444d16ef01a1a2b1f400d
 Directory: makemkv
+Architectures: amd64, arm64v8
