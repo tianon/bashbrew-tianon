@@ -36,14 +36,14 @@ GitCommit: 371d40fb1dc46446bb69faed2ee61cb5f4a253f4
 Directory: 8.1
 File: Dockerfile.native
 
-Tags: 8.2.3, 8.2, 8, 8.2.3-bookworm, 8.2-bookworm, 8-bookworm
+Tags: 8.2.4, 8.2, 8, 8.2.4-bookworm, 8.2-bookworm, 8-bookworm
 Architectures: amd64
-GitCommit: 3fa803cd83e85812397cb4bddb471b69d53f6837
+GitCommit: ca928c64edd177a3777a27b656a5de6561396fed
 Directory: 8.2
 
-Tags: 8.2.3-native, 8.2-native, 8-native, 8.2.3-native-bookworm, 8.2-native-bookworm, 8-native-bookworm
+Tags: 8.2.4-native, 8.2-native, 8-native, 8.2.4-native-bookworm, 8.2-native-bookworm, 8-native-bookworm
 Architectures: amd64, arm32v7, arm64v8
-GitCommit: 3fa803cd83e85812397cb4bddb471b69d53f6837
+GitCommit: ca928c64edd177a3777a27b656a5de6561396fed
 Directory: 8.2
 File: Dockerfile.native
 
