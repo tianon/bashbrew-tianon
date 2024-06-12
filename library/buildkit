@@ -3,6 +3,6 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, riscv64, s390x
 Builder: buildkit
 
-Tags: 0.13.2, 0.13, 0, latest
-GitCommit: 35e2e4fde6ffc33d130246c27d0f7261a4416e5c
+Tags: 0.14.0, 0.14, 0, latest
+GitCommit: 6fe1feed0f5f03cd4183b085f97e9ff870cd70d5
 Directory: buildkit
