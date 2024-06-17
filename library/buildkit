@@ -4,5 +4,5 @@ Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, riscv6
 Builder: buildkit
 
 Tags: 0.14.0, 0.14, 0, latest
-GitCommit: 6fe1feed0f5f03cd4183b085f97e9ff870cd70d5
+GitCommit: 8c854664edda5c5ce3140981da969277de8e9075
 Directory: buildkit
