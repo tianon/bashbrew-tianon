@@ -2,7 +2,7 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 GitCommit: efc1be58b704af6ebe31133110778e1707e67ed3
 Directory: buildkit
-Architectures: amd64
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, riscv64
 Builder: buildkit
 
 Tags: 0.14.1, 0.14, 0, latest
