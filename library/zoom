@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 6.1.0.198, 6.1.0, 6.1, 6, latest
-GitCommit: 03b68708c9106a2da7a1585ddf57cf1c839b2276
+Tags: 6.1.1.443, 6.1.1, 6.1, 6, latest
+GitCommit: c140a8b40b9822567b32422db6481675f9328c21
 Directory: zoom
