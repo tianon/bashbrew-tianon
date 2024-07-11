@@ -5,8 +5,8 @@ Tags: 126.0.2592.87-1-stable, 126.0.2592.87-stable, 126.0.2592-stable, 126.0-sta
 GitCommit: 163ec0314039b38d59748b7059105ff571e06ae0
 Directory: microsoft-edge/stable
 
-Tags: 127.0.2651.31-1-beta, 127.0.2651.31-beta, 127.0.2651-beta, 127.0-beta, 127-beta, beta
-GitCommit: 19189a58afc88925bfab1d5703284d3399a40453
+Tags: 127.0.2651.45-1-beta, 127.0.2651.45-beta, 127.0.2651-beta, 127.0-beta, 127-beta, beta
+GitCommit: 3286e5db922ba079b1b7fc3c6fe7af0d33d945e1
 Directory: microsoft-edge/beta
 
 Tags: 128.0.2677.1-1-dev, 128.0.2677.1-dev, 128.0.2677-dev, 128.0-dev, 128-dev, dev
