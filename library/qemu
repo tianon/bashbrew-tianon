@@ -3,17 +3,6 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
 
-Tags: 7.2.13, 7.2, 7, 7.2.13-bookworm, 7.2-bookworm, 7-bookworm
-Architectures: amd64
-GitCommit: 72cd4ebd938b1628a5e6d0abbd2ceac1590aef88
-Directory: 7.2
-
-Tags: 7.2.13-native, 7.2-native, 7-native, 7.2.13-native-bookworm, 7.2-native-bookworm, 7-native-bookworm
-Architectures: amd64, arm32v7, arm64v8
-GitCommit: 72cd4ebd938b1628a5e6d0abbd2ceac1590aef88
-Directory: 7.2
-File: Dockerfile.native
-
 Tags: 8.0.5, 8.0, 8.0.5-bookworm, 8.0-bookworm
 Architectures: amd64
 GitCommit: e0ca27ec344da208ad2f7da2d067315a50274b0d
@@ -56,4 +45,15 @@ Tags: 9.0.2-native, 9.0-native, 9-native, native, 9.0.2-native-bookworm, 9.0-nat
 Architectures: amd64, arm32v7, arm64v8
 GitCommit: 72cd4ebd938b1628a5e6d0abbd2ceac1590aef88
 Directory: 9.0
+File: Dockerfile.native
+
+Tags: 9.1.0-rc0, 9.1-rc, 9.1.0-rc0-bookworm, 9.1-rc-bookworm
+Architectures: amd64
+GitCommit: b80d28a70d587c34c73562eb2ab8e3578421a4ea
+Directory: 9.1-rc
+
+Tags: 9.1.0-rc0-native, 9.1-rc-native, 9.1.0-rc0-native-bookworm, 9.1-rc-native-bookworm
+Architectures: amd64, arm32v7, arm64v8
+GitCommit: b80d28a70d587c34c73562eb2ab8e3578421a4ea
+Directory: 9.1-rc
 File: Dockerfile.native
