@@ -3,6 +3,17 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
 
+Tags: 7.2.14, 7.2, 7, 7.2.14-bookworm, 7.2-bookworm, 7-bookworm
+Architectures: amd64
+GitCommit: 18838b4f7eb61620480ac3f9e75335e92eee505d
+Directory: 7.2
+
+Tags: 7.2.14-native, 7.2-native, 7-native, 7.2.14-native-bookworm, 7.2-native-bookworm, 7-native-bookworm
+Architectures: amd64, arm32v7, arm64v8
+GitCommit: 18838b4f7eb61620480ac3f9e75335e92eee505d
+Directory: 7.2
+File: Dockerfile.native
+
 Tags: 8.0.5, 8.0, 8.0.5-bookworm, 8.0-bookworm
 Architectures: amd64
 GitCommit: e0ca27ec344da208ad2f7da2d067315a50274b0d
@@ -25,14 +36,14 @@ GitCommit: e0ca27ec344da208ad2f7da2d067315a50274b0d
 Directory: 8.1
 File: Dockerfile.native
 
-Tags: 8.2.6, 8.2, 8, 8.2.6-bookworm, 8.2-bookworm, 8-bookworm
+Tags: 8.2.7, 8.2, 8, 8.2.7-bookworm, 8.2-bookworm, 8-bookworm
 Architectures: amd64
-GitCommit: 72cd4ebd938b1628a5e6d0abbd2ceac1590aef88
+GitCommit: a5dacb22b942724c8e280e8984c02cb521854ddf
 Directory: 8.2
 
-Tags: 8.2.6-native, 8.2-native, 8-native, 8.2.6-native-bookworm, 8.2-native-bookworm, 8-native-bookworm
+Tags: 8.2.7-native, 8.2-native, 8-native, 8.2.7-native-bookworm, 8.2-native-bookworm, 8-native-bookworm
 Architectures: amd64, arm32v7, arm64v8
-GitCommit: 72cd4ebd938b1628a5e6d0abbd2ceac1590aef88
+GitCommit: a5dacb22b942724c8e280e8984c02cb521854ddf
 Directory: 8.2
 File: Dockerfile.native
 
