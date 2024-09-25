@@ -7,23 +7,35 @@ Builder: buildkit
 Tags: 1.17, latest
 Architectures: amd64, arm32v5, arm32v6, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 File: Dockerfile.alpine
-amd64-File: Dockerfile.debian
 arm32v5-File: Dockerfile.debian
-arm32v7-File: Dockerfile.debian
-i386-File: Dockerfile.debian
 mips64le-File: Dockerfile.debian
-ppc64le-File: Dockerfile.debian
 
 Tags: 1.17-alpine, alpine
-Architectures: arm32v6, arm64v8, s390x
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+File: Dockerfile.alpine
+
+Tags: alpine-amd64, amd64
+Architectures: amd64
 File: Dockerfile.alpine
 
 Tags: alpine-arm32v6, arm32v6
 Architectures: arm32v6
 File: Dockerfile.alpine
 
+Tags: alpine-arm32v7, arm32v7
+Architectures: arm32v7
+File: Dockerfile.alpine
+
 Tags: alpine-arm64v8, arm64v8
 Architectures: arm64v8
+File: Dockerfile.alpine
+
+Tags: alpine-i386, i386
+Architectures: i386
+File: Dockerfile.alpine
+
+Tags: alpine-ppc64le, ppc64le
+Architectures: ppc64le
 File: Dockerfile.alpine
 
 Tags: alpine-s390x, s390x
@@ -34,7 +46,7 @@ Tags: 1.17-debian, debian
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 File: Dockerfile.debian
 
-Tags: debian-amd64, amd64
+Tags: debian-amd64
 Architectures: amd64
 File: Dockerfile.debian
 
@@ -42,7 +54,7 @@ Tags: debian-arm32v5, arm32v5
 Architectures: arm32v5
 File: Dockerfile.debian
 
-Tags: debian-arm32v7, arm32v7
+Tags: debian-arm32v7
 Architectures: arm32v7
 File: Dockerfile.debian
 
@@ -50,7 +62,7 @@ Tags: debian-arm64v8
 Architectures: arm64v8
 File: Dockerfile.debian
 
-Tags: debian-i386, i386
+Tags: debian-i386
 Architectures: i386
 File: Dockerfile.debian
 
@@ -58,7 +70,7 @@ Tags: debian-mips64le, mips64le
 Architectures: mips64le
 File: Dockerfile.debian
 
-Tags: debian-ppc64le, ppc64le
+Tags: debian-ppc64le
 Architectures: ppc64le
 File: Dockerfile.debian
 

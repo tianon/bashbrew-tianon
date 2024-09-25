@@ -9,4 +9,4 @@ Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, s390x
 Tags: alpine, alpine3.20
 GitCommit: 4922d021769ad38f171259fbce3a913cf5c863bd
 Directory: network-toolbox/alpine
-Architectures: arm32v6, i386, riscv64
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x

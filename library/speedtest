@@ -4,4 +4,4 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Tags: 1.2.0, 1.2, 1, latest
 GitCommit: 4922d021769ad38f171259fbce3a913cf5c863bd
 Directory: speedtest
-Architectures: arm32v6, i386
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386
