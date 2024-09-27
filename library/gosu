@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/gosu.git
-GitCommit: f0ea85bbe86fb43b2344fd69d44a19b7cfa10050
+GitCommit: 9842436d3bd9129c5834ab41f4e08fbe0c916d68
 Directory: hub
 Builder: buildkit
 
@@ -10,70 +10,70 @@ File: Dockerfile.alpine
 arm32v5-File: Dockerfile.debian
 mips64le-File: Dockerfile.debian
 
-Tags: 1.17-alpine, alpine
+Tags: 1.17-alpine, alpine, 1.17-alpine3.19, alpine3.19
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
 File: Dockerfile.alpine
 
-Tags: alpine-amd64, amd64
+Tags: alpine-amd64, alpine3.19-amd64, amd64
 Architectures: amd64
 File: Dockerfile.alpine
 
-Tags: alpine-arm32v6, arm32v6
+Tags: alpine-arm32v6, alpine3.19-arm32v6, arm32v6
 Architectures: arm32v6
 File: Dockerfile.alpine
 
-Tags: alpine-arm32v7, arm32v7
+Tags: alpine-arm32v7, alpine3.19-arm32v7, arm32v7
 Architectures: arm32v7
 File: Dockerfile.alpine
 
-Tags: alpine-arm64v8, arm64v8
+Tags: alpine-arm64v8, alpine3.19-arm64v8, arm64v8
 Architectures: arm64v8
 File: Dockerfile.alpine
 
-Tags: alpine-i386, i386
+Tags: alpine-i386, alpine3.19-i386, i386
 Architectures: i386
 File: Dockerfile.alpine
 
-Tags: alpine-ppc64le, ppc64le
+Tags: alpine-ppc64le, alpine3.19-ppc64le, ppc64le
 Architectures: ppc64le
 File: Dockerfile.alpine
 
-Tags: alpine-s390x, s390x
+Tags: alpine-s390x, alpine3.19-s390x, s390x
 Architectures: s390x
 File: Dockerfile.alpine
 
-Tags: 1.17-debian, debian
+Tags: 1.17-debian, debian, 1.17-bookworm, bookworm
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 File: Dockerfile.debian
 
-Tags: debian-amd64
+Tags: debian-amd64, bookworm-amd64
 Architectures: amd64
 File: Dockerfile.debian
 
-Tags: debian-arm32v5, arm32v5
+Tags: debian-arm32v5, bookworm-arm32v5, arm32v5
 Architectures: arm32v5
 File: Dockerfile.debian
 
-Tags: debian-arm32v7
+Tags: debian-arm32v7, bookworm-arm32v7
 Architectures: arm32v7
 File: Dockerfile.debian
 
-Tags: debian-arm64v8
+Tags: debian-arm64v8, bookworm-arm64v8
 Architectures: arm64v8
 File: Dockerfile.debian
 
-Tags: debian-i386
+Tags: debian-i386, bookworm-i386
 Architectures: i386
 File: Dockerfile.debian
 
-Tags: debian-mips64le, mips64le
+Tags: debian-mips64le, bookworm-mips64le, mips64le
 Architectures: mips64le
 File: Dockerfile.debian
 
-Tags: debian-ppc64le
+Tags: debian-ppc64le, bookworm-ppc64le
 Architectures: ppc64le
 File: Dockerfile.debian
 
-Tags: debian-s390x
+Tags: debian-s390x, bookworm-s390x
 Architectures: s390x
 File: Dockerfile.debian
