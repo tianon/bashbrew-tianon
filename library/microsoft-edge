@@ -9,6 +9,6 @@ Tags: 130.0.2849.13-1-beta, 130.0.2849.13-beta, 130.0.2849-beta, 130.0-beta, 130
 GitCommit: b8675cc11d1729b8be1491945d1dac166c97fcbc
 Directory: microsoft-edge/beta
 
-Tags: 130.0.2849.1-1-dev, 130.0.2849.1-dev, 130.0.2849-dev, 130.0-dev, 130-dev, dev
-GitCommit: 6ee296dcb5e0bca4bc79bad324de9aac5f48dad0
+Tags: 131.0.2863.0-1-dev, 131.0.2863.0-dev, 131.0.2863-dev, 131.0-dev, 131-dev, dev
+GitCommit: 125fc84c0405cd705581a008049d0e98b509979e
 Directory: microsoft-edge/dev
