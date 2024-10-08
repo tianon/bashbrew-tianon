@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
-GitCommit: 871c48cbc01a60c89258c029592e0b758543d5a3
+GitCommit: 75416433b2bc72057f2342ff9c99b9635a5e46f1
 Directory: containerd
 
 Tags: 1.7.22, 1.7, 1, latest, 1.7.22-c8dind, 1.7-c8dind, 1-c8dind, c8dind
