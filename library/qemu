@@ -47,14 +47,14 @@ GitCommit: a5dacb22b942724c8e280e8984c02cb521854ddf
 Directory: 8.2
 File: Dockerfile.native
 
-Tags: 9.0.2, 9.0, 9.0.2-bookworm, 9.0-bookworm
+Tags: 9.0.3, 9.0, 9.0.3-bookworm, 9.0-bookworm
 Architectures: amd64
-GitCommit: 72cd4ebd938b1628a5e6d0abbd2ceac1590aef88
+GitCommit: 075847d1e45bd2f93321be2bf4886fe4c7179340
 Directory: 9.0
 
-Tags: 9.0.2-native, 9.0-native, 9.0.2-native-bookworm, 9.0-native-bookworm
+Tags: 9.0.3-native, 9.0-native, 9.0.3-native-bookworm, 9.0-native-bookworm
 Architectures: amd64, arm32v7, arm64v8
-GitCommit: 72cd4ebd938b1628a5e6d0abbd2ceac1590aef88
+GitCommit: 075847d1e45bd2f93321be2bf4886fe4c7179340
 Directory: 9.0
 File: Dockerfile.native
 
