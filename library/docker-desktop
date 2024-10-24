@@ -1,0 +1,8 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/dockerfiles.git
+
+Tags: 4.35.0, 4.35, 4, latest
+GitCommit: 5edaaef25609579d7d7f4728aa5a544069de271b
+Directory: docker-desktop
+# ironically, this cannot use BuildKit: https://github.com/moby/buildkit/issues/1267
+Builder: classic
