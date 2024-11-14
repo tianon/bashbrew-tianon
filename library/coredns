@@ -2,6 +2,6 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 Architectures: amd64, arm64v8, mips64le, ppc64le, s390x
 
-Tags: 1.11.3, 1.11, 1, latest
-GitCommit: c40c6eb6455d628736dd89e781fa1920a684b17b
+Tags: 1.11.4, 1.11, 1, latest
+GitCommit: a7b82183ff49bb4ca728fc7ea4c38e157cacd275
 Directory: coredns
