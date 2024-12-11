@@ -1,4 +1,4 @@
-# this file is generated via https://github.com/tianon/docker-qemu/blob/97be9a2967f60b959839d3283892b4a5a43c7f6f/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-qemu/blob/01c5e99e2d6fdcc65704eb90f8ba0f334be34564/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
@@ -36,24 +36,24 @@ GitCommit: 39584f54f416379eadaa97a610b71f2ec01072ce
 Directory: 9.0
 File: Dockerfile.native
 
-Tags: 9.1.2, 9.1, 9, latest, 9.1.2-bookworm, 9.1-bookworm, 9-bookworm, bookworm
+Tags: 9.1.2, 9.1, 9.1.2-bookworm, 9.1-bookworm
 Architectures: amd64
 GitCommit: 39584f54f416379eadaa97a610b71f2ec01072ce
 Directory: 9.1
 
-Tags: 9.1.2-native, 9.1-native, 9-native, native, 9.1.2-native-bookworm, 9.1-native-bookworm, 9-native-bookworm, native-bookworm
+Tags: 9.1.2-native, 9.1-native, 9.1.2-native-bookworm, 9.1-native-bookworm
 Architectures: amd64, arm32v7, arm64v8
 GitCommit: 39584f54f416379eadaa97a610b71f2ec01072ce
 Directory: 9.1
 File: Dockerfile.native
 
-Tags: 9.2.0-rc3, 9.2-rc, 9.2.0-rc3-bookworm, 9.2-rc-bookworm
+Tags: 9.2.0, 9.2, 9, latest, 9.2.0-bookworm, 9.2-bookworm, 9-bookworm, bookworm
 Architectures: amd64
-GitCommit: 162c1733d46a5e8ca14305296cec37f3864fc85b
-Directory: 9.2-rc
+GitCommit: 01c5e99e2d6fdcc65704eb90f8ba0f334be34564
+Directory: 9.2
 
-Tags: 9.2.0-rc3-native, 9.2-rc-native, 9.2.0-rc3-native-bookworm, 9.2-rc-native-bookworm
+Tags: 9.2.0-native, 9.2-native, 9-native, native, 9.2.0-native-bookworm, 9.2-native-bookworm, 9-native-bookworm, native-bookworm
 Architectures: amd64, arm32v7, arm64v8
-GitCommit: 162c1733d46a5e8ca14305296cec37f3864fc85b
-Directory: 9.2-rc
+GitCommit: 01c5e99e2d6fdcc65704eb90f8ba0f334be34564
+Directory: 9.2
 File: Dockerfile.native
