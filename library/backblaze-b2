@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 4.2.0, 4.2, 4, latest
-GitCommit: 33077b999232dbf1ab9e7e9a10613411171c46d4
+GitCommit: 83bc6e6e56890e73f284c431853bd3fcaf317000
 Directory: backblaze-b2
