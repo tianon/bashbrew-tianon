@@ -2,7 +2,7 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 3.1.0, 3.1, 3, latest
-GitCommit: 83bc6e6e56890e73f284c431853bd3fcaf317000
+GitCommit: 26ae0ad57b5614f57f84c0377692dc0f319ff8cb
 Directory: prometheus
 
 Tags: alertmanager-0.27.0, alertmanager-0.27, alertmanager-0, alertmanager
@@ -10,9 +10,9 @@ GitCommit: 83bc6e6e56890e73f284c431853bd3fcaf317000
 Directory: prometheus/alertmanager
 
 Tags: blackbox-exporter-0.25.0, blackbox-exporter-0.25, blackbox-exporter-0, blackbox-exporter
-GitCommit: 83bc6e6e56890e73f284c431853bd3fcaf317000
+GitCommit: 26ae0ad57b5614f57f84c0377692dc0f319ff8cb
 Directory: prometheus/blackbox-exporter
 
 Tags: node-exporter-1.8.2, node-exporter-1.8, node-exporter-1, node-exporter
-GitCommit: 8ac2acf494ce8d6daf58f196021f8b4bb7e6fe2f
+GitCommit: 26ae0ad57b5614f57f84c0377692dc0f319ff8cb
 Directory: prometheus/node-exporter
