@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/docker-postgres-upgrade.git
-GitCommit: 404a72189ae9581adf5f5241589be13af2051095
+GitCommit: bf49260deaa4bd33312ae29d2576b27cb2e98642
 
 Tags: 16-to-17
 Directory: 16-to-17
