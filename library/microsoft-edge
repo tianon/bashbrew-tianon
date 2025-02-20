@@ -9,6 +9,6 @@ Tags: 134.0.3124.19-1-beta, 134.0.3124.19-beta, 134.0.3124-beta, 134.0-beta, 134
 GitCommit: 43a302f75e1c71ad6824bbbbbb106f16321fe33a
 Directory: microsoft-edge/beta
 
-Tags: 134.0.3124.5-1-dev, 134.0.3124.5-dev, 134.0.3124-dev, 134.0-dev, 134-dev, dev
-GitCommit: 68ddffe57126c521685691313eb565cc8a06ce64
+Tags: 135.0.3140.0-1-dev, 135.0.3140.0-dev, 135.0.3140-dev, 135.0-dev, 135-dev, dev
+GitCommit: ae1ea203c6f6c1a0a5b829d4fcfe6f87a1d64924
 Directory: microsoft-edge/dev
