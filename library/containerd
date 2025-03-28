@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
-GitCommit: e2932bb6e5f92dfbb1fd5fe162fbdb7f4cd8fefe
+GitCommit: a06fcb7d804f41ac78156062299214d33830bffb
 Directory: containerd
 
 Tags: 2.0.4, 2.0, 2, latest

@@ -3,52 +3,52 @@ GitRepo: https://github.com/tianon/dockerfiles.git
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x, riscv64
 
 Tags: 23.0.15, 23.0, 23, latest
-GitCommit: 294c9a34cd5c4d33f89253ffd6e272658d0388d8
+GitCommit: 01477115c4f8703646b91797dc125e4dbf1af57b
 Directory: infosiftr-moby
 riscv64-File: Dockerfile.unstable
 
 Tags: amd64
-GitCommit: 294c9a34cd5c4d33f89253ffd6e272658d0388d8
+GitCommit: 01477115c4f8703646b91797dc125e4dbf1af57b
 Directory: infosiftr-moby
 Architectures: amd64
 
 Tags: arm32v5
-GitCommit: 294c9a34cd5c4d33f89253ffd6e272658d0388d8
+GitCommit: 01477115c4f8703646b91797dc125e4dbf1af57b
 Directory: infosiftr-moby
 Architectures: arm32v5
 
 Tags: arm32v7
-GitCommit: 294c9a34cd5c4d33f89253ffd6e272658d0388d8
+GitCommit: 01477115c4f8703646b91797dc125e4dbf1af57b
 Directory: infosiftr-moby
 Architectures: arm32v7
 
 Tags: arm64v8
-GitCommit: 294c9a34cd5c4d33f89253ffd6e272658d0388d8
+GitCommit: 01477115c4f8703646b91797dc125e4dbf1af57b
 Directory: infosiftr-moby
 Architectures: arm64v8
 
 Tags: i386
-GitCommit: 294c9a34cd5c4d33f89253ffd6e272658d0388d8
+GitCommit: 01477115c4f8703646b91797dc125e4dbf1af57b
 Directory: infosiftr-moby
 Architectures: i386
 
 Tags: mips64le
-GitCommit: 294c9a34cd5c4d33f89253ffd6e272658d0388d8
+GitCommit: 01477115c4f8703646b91797dc125e4dbf1af57b
 Directory: infosiftr-moby
 Architectures: mips64le
 
 Tags: ppc64le
-GitCommit: 294c9a34cd5c4d33f89253ffd6e272658d0388d8
+GitCommit: 01477115c4f8703646b91797dc125e4dbf1af57b
 Directory: infosiftr-moby
 Architectures: ppc64le
 
 Tags: s390x
-GitCommit: 294c9a34cd5c4d33f89253ffd6e272658d0388d8
+GitCommit: 01477115c4f8703646b91797dc125e4dbf1af57b
 Directory: infosiftr-moby
 Architectures: s390x
 
 Tags: riscv64
-GitCommit: 294c9a34cd5c4d33f89253ffd6e272658d0388d8
+GitCommit: 01477115c4f8703646b91797dc125e4dbf1af57b
 Directory: infosiftr-moby
 Architectures: riscv64
 riscv64-File: Dockerfile.unstable
