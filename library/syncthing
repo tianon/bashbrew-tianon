@@ -3,8 +3,8 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-syncthing.git
 
-Tags: 1.29.4-rc.2, 1-rc
-GitCommit: 54beed50f4261333afcee02f8d967bbc9657bc2f
+Tags: 1.29.5-rc.1, 1-rc
+GitCommit: 91d73623dac9f609ebb5136e8425216bdc202c61
 Directory: 1-rc
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 
