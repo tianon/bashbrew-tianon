@@ -13,7 +13,7 @@ GitCommit: 8e10af15ae5eb1d8b03d628108141beffe4f0494
 Directory: 1
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 
-Tags: 2.0.0-beta.8, 2-rc, rc
-GitCommit: 5c088631d87a11237af3b00b7645b72c04a59f4d
+Tags: 2.0.0-beta.10, 2-rc, rc
+GitCommit: 747ae074b591353724ded7315275e77e1e7d7044
 Directory: 2-rc
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
