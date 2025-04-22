@@ -5,8 +5,8 @@ Tags: 135.0.3179.85-1-stable, 135.0.3179.85-stable, 135.0.3179-stable, 135.0-sta
 GitCommit: ba259475b94d85a595e8bc782c7f92150bbdb15a
 Directory: microsoft-edge/stable
 
-Tags: 136.0.3240.14-1-beta, 136.0.3240.14-beta, 136.0.3240-beta, 136.0-beta, 136-beta, beta
-GitCommit: 19ffd0e630285e39eda3f6fd99fd41bf803bb9da
+Tags: 136.0.3240.29-1-beta, 136.0.3240.29-beta, 136.0.3240-beta, 136.0-beta, 136-beta, beta
+GitCommit: 9fd5201e6ea462fe984827a3c30bbe409a5002fd
 Directory: microsoft-edge/beta
 
 Tags: 137.0.3255.0-1-dev, 137.0.3255.0-dev, 137.0.3255-dev, 137.0-dev, 137-dev, dev
