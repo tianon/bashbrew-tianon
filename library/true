@@ -11,11 +11,11 @@ Directory: true
 File: Dockerfile.yolo
 
 Tags: oci
-GitCommit: a09f34c04740053121705c7c1d82f8d93000b53a
+GitCommit: fd07cf2c5b1aa4a00d10701124615cee90956ce0
 Directory: true/oci
 Builder: oci-import
 
 Tags: yoloci
-GitCommit: a09f34c04740053121705c7c1d82f8d93000b53a
+GitCommit: fd07cf2c5b1aa4a00d10701124615cee90956ce0
 Directory: true/yoloci
 Builder: oci-import
