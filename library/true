@@ -9,3 +9,13 @@ Tags: yolo
 GitCommit: 47fe0d0cb5ede5a36907162c25b058fd926f22fc
 Directory: true
 File: Dockerfile.yolo
+
+Tags: oci
+GitCommit: a09f34c04740053121705c7c1d82f8d93000b53a
+Directory: true/oci
+Builder: oci-import
+
+Tags: yoloci
+GitCommit: a09f34c04740053121705c7c1d82f8d93000b53a
+Directory: true/yoloci
+Builder: oci-import
