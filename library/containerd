@@ -1,14 +1,10 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
-GitCommit: 1a10a39b7065af7c257ca9871d008d419c68943d
+GitCommit: 75d91373113cf8a9bcf2e59175dc8b5762a0e0bc
 Directory: containerd
 
-Tags: 2.1.0, 2.1, 2, latest
+Tags: 2.1.1, 2.1, 2, latest
 Architectures: amd64, arm64v8, ppc64le, s390x
-
-Tags: 2.1.0-rc.1, 2.1.0-rc, rc
-Architectures: amd64, arm64v8, ppc64le, s390x
-File: Dockerfile.rc
 
 Tags: 1.7.27, 1.7, 1, 1.7.27-c8dind, 1.7-c8dind, 1-c8dind
 Architectures: amd64, arm64v8, ppc64le, s390x
