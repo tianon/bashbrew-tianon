@@ -1,8 +1,9 @@
-# this file is generated via https://github.com/tianon/containerd-registry/blob/8069f90d5f8a0fb4613be617802c2f41f1f7fc9f/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/containerd-registry/blob/eacee6b0146c54c2f339bdc31acc7c98dcba66b0/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/containerd-registry.git
 GitFetch: refs/heads/main
-GitCommit: 8069f90d5f8a0fb4613be617802c2f41f1f7fc9f
+GitCommit: eacee6b0146c54c2f339bdc31acc7c98dcba66b0
 
 Tags: latest
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
