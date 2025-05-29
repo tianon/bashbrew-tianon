@@ -14,6 +14,6 @@ Directory: 4
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 
 Tags: volume-driver
-GitCommit: 5c43606f86c6e54511f8be444ffc217750d0556f
+GitCommit: ec5f6f33cd007b42137edd19900e72ea63163aee
 Directory: mfs-volume-driver
 Architectures: amd64, arm32v7, arm64v8, i386, ppc64le, s390x
