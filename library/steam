@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 1.0.0.82, 1.0.0, 1.0, 1, latest
-GitCommit: 7b2da1adaeb8d1ddefe82d1725318362690eccd0
+Tags: 1.0.0.83, 1.0.0, 1.0, 1, latest
+GitCommit: 5320d1d896c5b80a3005504e582e7500eb9d2cc4
 Directory: steam
