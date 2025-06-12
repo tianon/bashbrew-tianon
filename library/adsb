@@ -9,4 +9,4 @@ Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 Tags: acarsdec-3.7, acarsdec-3, acarsdec
 GitCommit: 99ab08f8144251aed61cc50543959428d60189db
 Directory: adsb/acarsdec
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, s390x
