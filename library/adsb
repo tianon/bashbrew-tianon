@@ -5,3 +5,8 @@ Tags: readsb-3.14.1682, readsb-3.14, readsb-3, readsb
 GitCommit: 3f1c3dae5b99a5e79ef7f808f2265aa6da7a203f
 Directory: adsb/readsb
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+
+Tags: acarsdec-3.7, acarsdec-3, acarsdec
+GitCommit: af0c61bd6f92f9a3fa366171d3df4a606c9080b4
+Directory: adsb/acarsdec
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
