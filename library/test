@@ -1,8 +1,5 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
-GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: doi-sign
-GitCommit: fd07cf2c5b1aa4a00d10701124615cee90956ce0
-Directory: true/oci
-Builder: oci-import
-File: index.json
+GitRepo: https://github.com/docker-library/hello-world.git
+GitCommit: fb12b77c31f97ef7cee73c280432d771823d9ec8
