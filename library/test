@@ -1,0 +1,8 @@
+Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
+GitRepo: https://github.com/tianon/dockerfiles.git
+
+Tags: doi-sign
+GitCommit: fd07cf2c5b1aa4a00d10701124615cee90956ce0
+Directory: true/oci
+Builder: oci-import
+File: index.json
