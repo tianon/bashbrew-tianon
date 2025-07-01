@@ -8,8 +8,8 @@ GitCommit: 8596fb2292c1c78b668d8d0c12d0a49201359243
 Directory: 3
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 
-Tags: 4.57.5, 4.57, 4
-GitCommit: 60ea6e75df6a177df37bbdcc982897360ecbff90
+Tags: 4.57.7, 4.57, 4
+GitCommit: 832335e773bcdb769ffe7046446e54f6cac646ff
 Directory: 4
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 
