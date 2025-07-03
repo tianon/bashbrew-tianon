@@ -2,7 +2,7 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: readsb-3.14.1684, readsb-3.14, readsb-3, readsb
-GitCommit: dc33c5e66f1cfd48c23b36c95bea3a117ce6d855
+GitCommit: 30de3f636fcfa62a9c0ea72edf9a44cddd8d83d9
 Directory: adsb/readsb
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 
