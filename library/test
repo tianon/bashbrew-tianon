@@ -2,4 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 
 Tags: doi-sign
 GitRepo: https://github.com/docker-library/hello-world.git
-GitCommit: fb12b77c31f97ef7cee73c280432d771823d9ec8
+GitCommit: a2654a926677e91e30a233758e23b9acb2ef1ea8
+Directory: hello-world
