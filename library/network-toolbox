@@ -2,11 +2,11 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: debian, bookworm, latest
-GitCommit: 15eaf6a859151c02f5543d66ebb32bb7ca9f01b6
+GitCommit: d4c30ae5d678911167a241428a93c90350858dc0
 Directory: network-toolbox/debian
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 
 Tags: alpine, alpine3.22
-GitCommit: abf04d1224a7d3c69bc7c4e5cda4b91e9cadbf27
+GitCommit: d4c30ae5d678911167a241428a93c90350858dc0
 Directory: network-toolbox/alpine
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
