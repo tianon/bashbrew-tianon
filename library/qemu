@@ -1,39 +1,39 @@
-# this file is generated via https://github.com/tianon/docker-qemu/blob/250585e7a117ea67a3087bfdd365c095a264273b/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-qemu/blob/3d31f296f72d0d7d1bcffd64925aa777d22cbc3d/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
 
-Tags: 10.0.2, 10.0, 10, latest, 10.0.2-bookworm, 10.0-bookworm, 10-bookworm, bookworm
+Tags: 10.0.3, 10.0, 10, latest, 10.0.3-bookworm, 10.0-bookworm, 10-bookworm, bookworm
 Architectures: amd64
-GitCommit: a27cfec194abaebffd900584943cbade4e10eaf9
+GitCommit: c124746d1ba22749cbec84f82eb0ee9f6c9cdaf9
 Directory: 10.0
 
-Tags: 10.0.2-native, 10.0-native, 10-native, native, 10.0.2-native-bookworm, 10.0-native-bookworm, 10-native-bookworm, native-bookworm
+Tags: 10.0.3-native, 10.0-native, 10-native, native, 10.0.3-native-bookworm, 10.0-native-bookworm, 10-native-bookworm, native-bookworm
 Architectures: amd64, arm32v7, arm64v8
-GitCommit: a27cfec194abaebffd900584943cbade4e10eaf9
+GitCommit: c124746d1ba22749cbec84f82eb0ee9f6c9cdaf9
 Directory: 10.0
 File: Dockerfile.native
 
-Tags: 7.2.18, 7.2, 7, 7.2.18-bookworm, 7.2-bookworm, 7-bookworm
+Tags: 10.1.0-rc0, 10.1-rc, 10.1.0-rc0-bookworm, 10.1-rc-bookworm
 Architectures: amd64
-GitCommit: a27cfec194abaebffd900584943cbade4e10eaf9
-Directory: 7.2
+GitCommit: c124746d1ba22749cbec84f82eb0ee9f6c9cdaf9
+Directory: 10.1-rc
 
-Tags: 7.2.18-native, 7.2-native, 7-native, 7.2.18-native-bookworm, 7.2-native-bookworm, 7-native-bookworm
+Tags: 10.1.0-rc0-native, 10.1-rc-native, 10.1.0-rc0-native-bookworm, 10.1-rc-native-bookworm
 Architectures: amd64, arm32v7, arm64v8
-GitCommit: a27cfec194abaebffd900584943cbade4e10eaf9
-Directory: 7.2
+GitCommit: c124746d1ba22749cbec84f82eb0ee9f6c9cdaf9
+Directory: 10.1-rc
 File: Dockerfile.native
 
-Tags: 8.2.10, 8.2, 8, 8.2.10-bookworm, 8.2-bookworm, 8-bookworm
+Tags: 7.2.19, 7.2, 7, 7.2.19-bookworm, 7.2-bookworm, 7-bookworm
 Architectures: amd64
-GitCommit: dc0dd14bcc39e8d5e1e72a91658932f51b18b135
-Directory: 8.2
+GitCommit: c124746d1ba22749cbec84f82eb0ee9f6c9cdaf9
+Directory: 7.2
 
-Tags: 8.2.10-native, 8.2-native, 8-native, 8.2.10-native-bookworm, 8.2-native-bookworm, 8-native-bookworm
+Tags: 7.2.19-native, 7.2-native, 7-native, 7.2.19-native-bookworm, 7.2-native-bookworm, 7-native-bookworm
 Architectures: amd64, arm32v7, arm64v8
-GitCommit: dc0dd14bcc39e8d5e1e72a91658932f51b18b135
-Directory: 8.2
+GitCommit: c124746d1ba22749cbec84f82eb0ee9f6c9cdaf9
+Directory: 7.2
 File: Dockerfile.native
 
 Tags: 9.1.3, 9.1, 9.1.3-bookworm, 9.1-bookworm
