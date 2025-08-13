@@ -14,14 +14,14 @@ GitCommit: c0ad1dd9a2cce6e542e9a4034429d319e794250e
 Directory: 10.0
 File: Dockerfile.native
 
-Tags: 10.1.0-rc2, 10.1-rc, 10.1.0-rc2-bookworm, 10.1-rc-bookworm
+Tags: 10.1.0-rc3, 10.1-rc, 10.1.0-rc3-bookworm, 10.1-rc-bookworm
 Architectures: amd64
-GitCommit: 21cef73ac3ce5c3a535790bea94ab9968fc4b100
+GitCommit: f6bc478249203715ee7441f98a1058d565641bd4
 Directory: 10.1-rc
 
-Tags: 10.1.0-rc2-native, 10.1-rc-native, 10.1.0-rc2-native-bookworm, 10.1-rc-native-bookworm
+Tags: 10.1.0-rc3-native, 10.1-rc-native, 10.1.0-rc3-native-bookworm, 10.1-rc-native-bookworm
 Architectures: amd64, arm32v7, arm64v8
-GitCommit: 21cef73ac3ce5c3a535790bea94ab9968fc4b100
+GitCommit: f6bc478249203715ee7441f98a1058d565641bd4
 Directory: 10.1-rc
 File: Dockerfile.native
 
