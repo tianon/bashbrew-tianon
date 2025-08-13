@@ -2,11 +2,11 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: readsb-3.14.1694, readsb-3.14, readsb-3, readsb
-GitCommit: ff7250add278595abb709ab014a8d868c9cf740f
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: adsb/readsb
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 
 Tags: acarsdec-3.7, acarsdec-3, acarsdec
-GitCommit: 99ab08f8144251aed61cc50543959428d60189db
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: adsb/acarsdec
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, s390x
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, riscv64, s390x

@@ -1,54 +1,54 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x, riscv64
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x, mips64le
 
 Tags: 23.0.18, 23.0, 23, latest
-GitCommit: 7aa96f47bfe6bcfebc90802fb5acade426146c50
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: infosiftr-moby
-riscv64-File: Dockerfile.trixie
+mips64le-File: Dockerfile.bookworm
 
 Tags: amd64
-GitCommit: 7aa96f47bfe6bcfebc90802fb5acade426146c50
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: infosiftr-moby
 Architectures: amd64
 
 Tags: arm32v5
-GitCommit: 7aa96f47bfe6bcfebc90802fb5acade426146c50
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: infosiftr-moby
 Architectures: arm32v5
 
 Tags: arm32v7
-GitCommit: 7aa96f47bfe6bcfebc90802fb5acade426146c50
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: infosiftr-moby
 Architectures: arm32v7
 
 Tags: arm64v8
-GitCommit: 7aa96f47bfe6bcfebc90802fb5acade426146c50
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: infosiftr-moby
 Architectures: arm64v8
 
 Tags: i386
-GitCommit: 7aa96f47bfe6bcfebc90802fb5acade426146c50
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: infosiftr-moby
 Architectures: i386
 
-Tags: mips64le
-GitCommit: 7aa96f47bfe6bcfebc90802fb5acade426146c50
-Directory: infosiftr-moby
-Architectures: mips64le
-
 Tags: ppc64le
-GitCommit: 7aa96f47bfe6bcfebc90802fb5acade426146c50
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: infosiftr-moby
 Architectures: ppc64le
 
+Tags: riscv64
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
+Directory: infosiftr-moby
+Architectures: riscv64
+
 Tags: s390x
-GitCommit: 7aa96f47bfe6bcfebc90802fb5acade426146c50
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: infosiftr-moby
 Architectures: s390x
 
-Tags: riscv64
-GitCommit: 7aa96f47bfe6bcfebc90802fb5acade426146c50
+Tags: mips64le
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: infosiftr-moby
-Architectures: riscv64
-riscv64-File: Dockerfile.trixie
+Architectures: mips64le
+mips64le-File: Dockerfile.bookworm

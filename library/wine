@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: 10.0.0.0, 10.0.0, 10.0, 10, latest
-GitCommit: a4ac05dc9c2884000c1cf4edb45fe3e71c9f3dc4
+GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
 Directory: wine
