@@ -2,7 +2,7 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: debian, trixie, latest
-GitCommit: af7dd0d12a12c5b0f1e64e2e383630729f324260
+GitCommit: 382c48b5c4dba18596cc592a23966085529916f0
 Directory: network-toolbox/debian
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 

@@ -1,19 +1,24 @@
-# this file is generated via https://github.com/tianon/docker-syncthing/blob/e8cafed926b80ce922e788e10b1a494d6d24e5cf/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-syncthing/blob/346545b3bc205c9484970759fc8bfb03fc734ee5/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-syncthing.git
 
 Tags: 1.30.0-rc.2, 1-rc
-GitCommit: 4c3c5e3992becceefd24d020413c471ab7249fd8
+GitCommit: 70a6454a3ed288235a7271cac77cba0db2d9415a
 Directory: 1-rc
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 
-Tags: 1.30.0, 1.30, 1, latest
-GitCommit: 20f17eab36d6f5a5dc5d9ca452f1a2e043913e18
+Tags: 1.30.0, 1.30, 1
+GitCommit: 70a6454a3ed288235a7271cac77cba0db2d9415a
 Directory: 1
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 
 Tags: 2.0.0-rc.25, 2-rc, rc
-GitCommit: f8083f3df7db319a8090a5a4d4e048e1ba543b3e
+GitCommit: 70a6454a3ed288235a7271cac77cba0db2d9415a
 Directory: 2-rc
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
+
+Tags: 2.0.0, 2.0, 2, latest
+GitCommit: 70a6454a3ed288235a7271cac77cba0db2d9415a
+Directory: 2
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
