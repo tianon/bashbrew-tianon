@@ -6,7 +6,7 @@ GitCommit: 382c48b5c4dba18596cc592a23966085529916f0
 Directory: adsb/readsb
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 
-Tags: acarsdec-3.7, acarsdec-3, acarsdec
-GitCommit: 382c48b5c4dba18596cc592a23966085529916f0
+Tags: acarsdec-4.3.1, acarsdec-4.3, acarsdec-4, acarsdec
+GitCommit: c2dc97d339d4dddfcb561f0a5835194767d3d237
 Directory: adsb/acarsdec
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, riscv64, s390x
