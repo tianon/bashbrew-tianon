@@ -1,14 +1,13 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/gosu.git
-GitCommit: dc6c61dabb09c0377bdd1857a7afeb26553e332e
+GitCommit: 224099347acc35deb41df22f001ea9edc60aa447
 Directory: hub
 Builder: buildkit
 
 Tags: 1.17, latest
-Architectures: amd64, arm32v5, arm32v6, arm32v7, arm64v8, i386, mips64le, ppc64le, riscv64, s390x
+Architectures: amd64, arm32v5, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 File: Dockerfile.alpine
 arm32v5-File: Dockerfile.debian
-mips64le-File: Dockerfile.debian
 
 Tags: 1.17-alpine, alpine, 1.17-alpine3.22, alpine3.22
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
@@ -46,38 +45,38 @@ Tags: alpine-s390x, alpine3.22-s390x, s390x
 Architectures: s390x
 File: Dockerfile.alpine
 
-Tags: 1.17-debian, debian, 1.17-bookworm, bookworm
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+Tags: 1.17-debian, debian, 1.17-trixie, trixie
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 File: Dockerfile.debian
 
-Tags: debian-amd64, bookworm-amd64
+Tags: debian-amd64, trixie-amd64
 Architectures: amd64
 File: Dockerfile.debian
 
-Tags: debian-arm32v5, bookworm-arm32v5, arm32v5
+Tags: debian-arm32v5, trixie-arm32v5, arm32v5
 Architectures: arm32v5
 File: Dockerfile.debian
 
-Tags: debian-arm32v7, bookworm-arm32v7
+Tags: debian-arm32v7, trixie-arm32v7
 Architectures: arm32v7
 File: Dockerfile.debian
 
-Tags: debian-arm64v8, bookworm-arm64v8
+Tags: debian-arm64v8, trixie-arm64v8
 Architectures: arm64v8
 File: Dockerfile.debian
 
-Tags: debian-i386, bookworm-i386
+Tags: debian-i386, trixie-i386
 Architectures: i386
 File: Dockerfile.debian
 
-Tags: debian-mips64le, bookworm-mips64le, mips64le
-Architectures: mips64le
-File: Dockerfile.debian
-
-Tags: debian-ppc64le, bookworm-ppc64le
+Tags: debian-ppc64le, trixie-ppc64le
 Architectures: ppc64le
 File: Dockerfile.debian
 
-Tags: debian-s390x, bookworm-s390x
+Tags: debian-riscv64, trixie-riscv64
+Architectures: riscv64
+File: Dockerfile.debian
+
+Tags: debian-s390x, trixie-s390x
 Architectures: s390x
 File: Dockerfile.debian
