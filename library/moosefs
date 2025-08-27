@@ -3,15 +3,15 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-moosefs.git
 
-Tags: 3.0.118, 3.0, 3, 3.0.118-bookworm, 3.0-bookworm, 3-bookworm
-GitCommit: 8596fb2292c1c78b668d8d0c12d0a49201359243
+Tags: 3.0.118, 3.0, 3, 3.0.118-trixie, 3.0-trixie, 3-trixie
+GitCommit: d5a531c700f66e9cd18d2dd707ebc66ad46118b2
 Directory: 3
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 
-Tags: 4.57.7, 4.57, 4, latest, 4.57.7-bookworm, 4.57-bookworm, 4-bookworm, bookworm
-GitCommit: 262a82acda9f7e4f85871bc6c780f332e6fce5fe
+Tags: 4.57.7, 4.57, 4, latest, 4.57.7-trixie, 4.57-trixie, 4-trixie, trixie
+GitCommit: d5a531c700f66e9cd18d2dd707ebc66ad46118b2
 Directory: 4
-Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 
 Tags: volume-driver
 GitCommit: ec5f6f33cd007b42137edd19900e72ea63163aee
