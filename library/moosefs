@@ -1,14 +1,14 @@
-# this file is generated via https://github.com/tianon/docker-moosefs/blob/143143c73ff716907c2df1c6451c420aa7fbd06a/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-moosefs/blob/377a864a205a7c520adad413c64e650358bf77c3/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-moosefs.git
 
-Tags: 3.0.118, 3.0, 3, latest, 3.0.118-bookworm, 3.0-bookworm, 3-bookworm, bookworm
+Tags: 3.0.118, 3.0, 3, 3.0.118-bookworm, 3.0-bookworm, 3-bookworm
 GitCommit: 8596fb2292c1c78b668d8d0c12d0a49201359243
 Directory: 3
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
 
-Tags: 4.57.7, 4.57, 4, 4.57.7-bookworm, 4.57-bookworm, 4-bookworm
+Tags: 4.57.7, 4.57, 4, latest, 4.57.7-bookworm, 4.57-bookworm, 4-bookworm, bookworm
 GitCommit: 262a82acda9f7e4f85871bc6c780f332e6fce5fe
 Directory: 4
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
