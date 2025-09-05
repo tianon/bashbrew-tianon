@@ -1,15 +1,15 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/gosu.git
-GitCommit: 224099347acc35deb41df22f001ea9edc60aa447
+GitCommit: b1d0abd88f1d0944e6096cc597b32b73215333e5
 Directory: hub
 Builder: buildkit
 
-Tags: 1.17, latest
+Tags: 1.18, latest
 Architectures: amd64, arm32v5, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 File: Dockerfile.alpine
 arm32v5-File: Dockerfile.debian
 
-Tags: 1.17-alpine, alpine, 1.17-alpine3.22, alpine3.22
+Tags: 1.18-alpine, alpine, 1.18-alpine3.22, alpine3.22
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 File: Dockerfile.alpine
 
@@ -45,7 +45,7 @@ Tags: alpine-s390x, alpine3.22-s390x, s390x
 Architectures: s390x
 File: Dockerfile.alpine
 
-Tags: 1.17-debian, debian, 1.17-trixie, trixie
+Tags: 1.18-debian, debian, 1.18-trixie, trixie
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 File: Dockerfile.debian
 
