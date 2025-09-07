@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 1.10.1, 1.10, 1, latest
-GitCommit: d7bfc851e020475dee5d16eca56c3d2ac45533eb
+Tags: 1.10.2, 1.10, 1, latest
+GitCommit: e40f10908b8f984a4f3820da3156d280c51aba7b
 Directory: handbrake
