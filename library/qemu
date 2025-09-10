@@ -3,14 +3,14 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
 
-Tags: 10.0.3, 10.0, 10.0.3-trixie, 10.0-trixie
+Tags: 10.0.4, 10.0, 10.0.4-trixie, 10.0-trixie
 Architectures: amd64
-GitCommit: 96fe67b023013dde242cea0adda71478beebe269
+GitCommit: 0d942a50b7082488f593a303b79423db1b76f607
 Directory: 10.0
 
-Tags: 10.0.3-native, 10.0-native, 10.0.3-native-trixie, 10.0-native-trixie
+Tags: 10.0.4-native, 10.0-native, 10.0.4-native-trixie, 10.0-native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: 96fe67b023013dde242cea0adda71478beebe269
+GitCommit: 0d942a50b7082488f593a303b79423db1b76f607
 Directory: 10.0
 File: Dockerfile.native
 
@@ -25,14 +25,14 @@ GitCommit: 96fe67b023013dde242cea0adda71478beebe269
 Directory: 10.1
 File: Dockerfile.native
 
-Tags: 7.2.19, 7.2, 7, 7.2.19-trixie, 7.2-trixie, 7-trixie
+Tags: 7.2.20, 7.2, 7, 7.2.20-trixie, 7.2-trixie, 7-trixie
 Architectures: amd64
-GitCommit: 96fe67b023013dde242cea0adda71478beebe269
+GitCommit: 0d942a50b7082488f593a303b79423db1b76f607
 Directory: 7.2
 
-Tags: 7.2.19-native, 7.2-native, 7-native, 7.2.19-native-trixie, 7.2-native-trixie, 7-native-trixie
+Tags: 7.2.20-native, 7.2-native, 7-native, 7.2.20-native-trixie, 7.2-native-trixie, 7-native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: 96fe67b023013dde242cea0adda71478beebe269
+GitCommit: 0d942a50b7082488f593a303b79423db1b76f607
 Directory: 7.2
 File: Dockerfile.native
 
