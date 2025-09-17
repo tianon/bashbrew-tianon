@@ -3,4 +3,4 @@ GitRepo: https://github.com/tianon/gosleep.git
 Builder: buildkit
 
 Tags: 1.0, 1, latest
-GitCommit: d8f913ce1b75319fb2ab208bec93017b00afef76
+GitCommit: c52c927d92d23e35db97acba043611944b073440
