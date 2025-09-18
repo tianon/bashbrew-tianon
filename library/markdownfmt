@@ -2,5 +2,5 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/markdownfmt.git
 
 Tags: latest
-GitCommit: 58b96c024971eeb07887f2dbc481a92a5829b2c9
-Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x
+GitCommit: 5ff789c6c7170d9f18499d026514342a288a2725
+Architectures: amd64, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
