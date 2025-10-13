@@ -2,6 +2,6 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 
-Tags: linux-6.17.1, latest
-GitCommit: 46ccac48782d22c58a3dbcb8368fca2348d581b0
+Tags: linux-6.17.2, latest
+GitCommit: 0cc8e04da8af0c18152615101c802b71e3387a66
 Directory: nolibc
