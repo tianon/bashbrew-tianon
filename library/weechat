@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 4.7.2-1, 4.7.2, 4.7, 4, latest
-GitCommit: 20e82dc04341990d5c430cb97e6a543edeff3816
+Tags: 4.8.0-1, 4.8.0, 4.8, 4, latest
+GitCommit: 85d55d07a5e0359f1a191c5f635f4c17a487bdb6
 Directory: weechat
