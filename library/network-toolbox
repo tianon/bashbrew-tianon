@@ -6,7 +6,7 @@ GitCommit: 382c48b5c4dba18596cc592a23966085529916f0
 Directory: network-toolbox/debian
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
 
-Tags: alpine, alpine3.22
-GitCommit: d4c30ae5d678911167a241428a93c90350858dc0
+Tags: alpine, alpine3.23
+GitCommit: f4db9bd6ad3211d78be3e120c3bc6be6ad7174f6
 Directory: network-toolbox/alpine
 Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
