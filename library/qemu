@@ -3,14 +3,14 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
 
-Tags: 10.0.6, 10.0, 10.0.6-trixie, 10.0-trixie
+Tags: 10.0.7, 10.0, 10.0.7-trixie, 10.0-trixie
 Architectures: amd64
-GitCommit: e22f81c0ef07feb6d741f59afabdd723066d2a05
+GitCommit: e3e9df5040a4fe4961195ce5132e646d0d083806
 Directory: 10.0
 
-Tags: 10.0.6-native, 10.0-native, 10.0.6-native-trixie, 10.0-native-trixie
+Tags: 10.0.7-native, 10.0-native, 10.0.7-native-trixie, 10.0-native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: e22f81c0ef07feb6d741f59afabdd723066d2a05
+GitCommit: e3e9df5040a4fe4961195ce5132e646d0d083806
 Directory: 10.0
 File: Dockerfile.native
 
@@ -25,25 +25,25 @@ GitCommit: e22f81c0ef07feb6d741f59afabdd723066d2a05
 Directory: 10.1
 File: Dockerfile.native
 
-Tags: 10.2.0-rc1, 10.2-rc, 10.2.0-rc1-trixie, 10.2-rc-trixie
+Tags: 10.2.0-rc2, 10.2-rc, 10.2.0-rc2-trixie, 10.2-rc-trixie
 Architectures: amd64
-GitCommit: 406cea0293e22cf3ac593d8488e788f3d2331235
+GitCommit: e3e9df5040a4fe4961195ce5132e646d0d083806
 Directory: 10.2-rc
 
-Tags: 10.2.0-rc1-native, 10.2-rc-native, 10.2.0-rc1-native-trixie, 10.2-rc-native-trixie
+Tags: 10.2.0-rc2-native, 10.2-rc-native, 10.2.0-rc2-native-trixie, 10.2-rc-native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: 406cea0293e22cf3ac593d8488e788f3d2331235
+GitCommit: e3e9df5040a4fe4961195ce5132e646d0d083806
 Directory: 10.2-rc
 File: Dockerfile.native
 
-Tags: 7.2.21, 7.2, 7, 7.2.21-trixie, 7.2-trixie, 7-trixie
+Tags: 7.2.22, 7.2, 7, 7.2.22-trixie, 7.2-trixie, 7-trixie
 Architectures: amd64
-GitCommit: 04cad926e9add42789f57234917759186793cc42
+GitCommit: e3e9df5040a4fe4961195ce5132e646d0d083806
 Directory: 7.2
 
-Tags: 7.2.21-native, 7.2-native, 7-native, 7.2.21-native-trixie, 7.2-native-trixie, 7-native-trixie
+Tags: 7.2.22-native, 7.2-native, 7-native, 7.2.22-native-trixie, 7.2-native-trixie, 7-native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: 04cad926e9add42789f57234917759186793cc42
+GitCommit: e3e9df5040a4fe4961195ce5132e646d0d083806
 Directory: 7.2
 File: Dockerfile.native
 
