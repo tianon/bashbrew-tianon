@@ -25,14 +25,14 @@ GitCommit: 9e40d15987116b2e778bd17e91cc0ade2ade333b
 Directory: 10.1
 File: Dockerfile.native
 
-Tags: 10.2.0-rc2, 10.2-rc, 10.2.0-rc2-trixie, 10.2-rc-trixie
+Tags: 10.2.0-rc3, 10.2-rc, 10.2.0-rc3-trixie, 10.2-rc-trixie
 Architectures: amd64
-GitCommit: e3e9df5040a4fe4961195ce5132e646d0d083806
+GitCommit: 55d08233b438843a722fb341f1184c43ebde57fb
 Directory: 10.2-rc
 
-Tags: 10.2.0-rc2-native, 10.2-rc-native, 10.2.0-rc2-native-trixie, 10.2-rc-native-trixie
+Tags: 10.2.0-rc3-native, 10.2-rc-native, 10.2.0-rc3-native-trixie, 10.2-rc-native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: e3e9df5040a4fe4961195ce5132e646d0d083806
+GitCommit: 55d08233b438843a722fb341f1184c43ebde57fb
 Directory: 10.2-rc
 File: Dockerfile.native
 
