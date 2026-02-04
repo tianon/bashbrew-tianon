@@ -2,7 +2,7 @@ Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
 Tags: winltsc2025
-GitCommit: c22266b6b15ffa148318d648da2a581ba0efe98c
+GitCommit: e358db072bc40d9fcda414afc8d4f729b220a821
 Directory: cygwin
 File: Dockerfile.ltsc2025
 Architectures: windows-amd64
@@ -10,7 +10,7 @@ Constraints: windowsservercore-ltsc2025
 SharedTags: latest
 
 Tags: winltsc2022
-GitCommit: c22266b6b15ffa148318d648da2a581ba0efe98c
+GitCommit: e358db072bc40d9fcda414afc8d4f729b220a821
 Directory: cygwin
 File: Dockerfile.ltsc2022
 Architectures: windows-amd64
@@ -18,7 +18,7 @@ Constraints: windowsservercore-ltsc2022
 SharedTags: latest
 
 Tags: win1809
-GitCommit: c22266b6b15ffa148318d648da2a581ba0efe98c
+GitCommit: e358db072bc40d9fcda414afc8d4f729b220a821
 Directory: cygwin
 File: Dockerfile.1809
 Architectures: windows-amd64
