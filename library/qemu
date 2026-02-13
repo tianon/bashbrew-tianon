@@ -3,36 +3,36 @@
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
 
-Tags: 10.0.7, 10.0, 10.0.7-trixie, 10.0-trixie
+Tags: 10.0.8, 10.0, 10.0.8-trixie, 10.0-trixie
 Architectures: amd64
-GitCommit: e3e9df5040a4fe4961195ce5132e646d0d083806
+GitCommit: 7d96d78012074b9848dc5574b539369025d8b500
 Directory: 10.0
 
-Tags: 10.0.7-native, 10.0-native, 10.0.7-native-trixie, 10.0-native-trixie
+Tags: 10.0.8-native, 10.0-native, 10.0.8-native-trixie, 10.0-native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: e3e9df5040a4fe4961195ce5132e646d0d083806
+GitCommit: 7d96d78012074b9848dc5574b539369025d8b500
 Directory: 10.0
 File: Dockerfile.native
 
-Tags: 10.1.3, 10.1, 10.1.3-trixie, 10.1-trixie
+Tags: 10.1.4, 10.1, 10.1.4-trixie, 10.1-trixie
 Architectures: amd64
-GitCommit: 9e40d15987116b2e778bd17e91cc0ade2ade333b
+GitCommit: 7d96d78012074b9848dc5574b539369025d8b500
 Directory: 10.1
 
-Tags: 10.1.3-native, 10.1-native, 10.1.3-native-trixie, 10.1-native-trixie
+Tags: 10.1.4-native, 10.1-native, 10.1.4-native-trixie, 10.1-native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: 9e40d15987116b2e778bd17e91cc0ade2ade333b
+GitCommit: 7d96d78012074b9848dc5574b539369025d8b500
 Directory: 10.1
 File: Dockerfile.native
 
-Tags: 10.2.0, 10.2, 10, latest, 10.2.0-trixie, 10.2-trixie, 10-trixie, trixie
+Tags: 10.2.1, 10.2, 10, latest, 10.2.1-trixie, 10.2-trixie, 10-trixie, trixie
 Architectures: amd64
-GitCommit: c03dbac7ff50d117300f48af3f2edcd11fe9897f
+GitCommit: 7d96d78012074b9848dc5574b539369025d8b500
 Directory: 10.2
 
-Tags: 10.2.0-native, 10.2-native, 10-native, native, 10.2.0-native-trixie, 10.2-native-trixie, 10-native-trixie, native-trixie
+Tags: 10.2.1-native, 10.2-native, 10-native, native, 10.2.1-native-trixie, 10.2-native-trixie, 10-native-trixie, native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: c03dbac7ff50d117300f48af3f2edcd11fe9897f
+GitCommit: 7d96d78012074b9848dc5574b539369025d8b500
 Directory: 10.2
 File: Dockerfile.native
 
