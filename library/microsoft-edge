@@ -9,6 +9,6 @@ Tags: 146.0.3856.20-1-beta, 146.0.3856.20-beta, 146.0.3856-beta, 146.0-beta, 146
 GitCommit: 2c24b17c338755d0c80a0b9c02cda4ef3d6e9bfc
 Directory: microsoft-edge/beta
 
-Tags: 146.0.3856.20-1-dev, 146.0.3856.20-dev, 146.0.3856-dev, 146.0-dev, 146-dev, dev
-GitCommit: ce7485c50455fdc42ba3b246e1beafd1b4c82ac2
+Tags: 147.0.3878.0-1-dev, 147.0.3878.0-dev, 147.0.3878-dev, 147.0-dev, 147-dev, dev
+GitCommit: 457c6f572c9fb7c6d02cc9374dc4a85e788187a1
 Directory: microsoft-edge/dev
