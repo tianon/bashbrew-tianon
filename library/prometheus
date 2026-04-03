@@ -1,8 +1,8 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 3.10.0, 3.10, 3, latest
-GitCommit: 1cadedd1773a62ba728e13ba4a6728f852bc2ae4
+Tags: 3.11.0, 3.11, 3, latest
+GitCommit: dcec2f73bce9362c17bc1c5bdd008434417ee712
 Directory: prometheus
 
 Tags: alertmanager-0.31.1, alertmanager-0.31, alertmanager-0, alertmanager
