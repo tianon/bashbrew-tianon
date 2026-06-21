@@ -6,7 +6,7 @@ GitCommit: 7ffacf1cb72d1c615d7eb8fedfdd75e25ede42fe
 Directory: sleeping-beauty
 
 Tags: nolibc
-GitCommit: f9d237114f90fa003ae669b6beab847e0e9f2f81
+GitCommit: 7ad3251621436763317fcdc2cfc276c63130c8de
 Directory: sleeping-beauty
 File: Dockerfile.nolibc
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x
