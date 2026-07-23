@@ -1,11 +1,14 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
-GitCommit: 509086d8cda9b60e062ae82471b760c8253d0946
+GitCommit: ea209ae69d3e69110c5f6616c0f3fe1442d4b998
 Directory: buildkit
 Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, riscv64, s390x
 Builder: buildkit
 
 Tags: 0.31.2, 0.31, 0, latest
+
+Tags: 0.32.0-rc1, 0.32.0, 0.32, rc
+File: Dockerfile.rc
 
 Tags: 0.16.0, 0.16
 File: Dockerfile.0.16
