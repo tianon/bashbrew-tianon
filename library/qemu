@@ -47,13 +47,13 @@ GitCommit: e4d18e4c739ef75f4f68c3e0e5bddb6989923e5a
 Directory: 11.0
 File: Dockerfile.native
 
-Tags: 11.1.0-rc1, 11.1-rc, 11.1.0-rc1-trixie, 11.1-rc-trixie
+Tags: 11.1.0-rc2, 11.1-rc, 11.1.0-rc2-trixie, 11.1-rc-trixie
 Architectures: amd64
-GitCommit: 6bce44214bdebec4cf666d60b849f16b52fc0b2d
+GitCommit: 643135e984acf62f729a8e35b16c850e4abe68b5
 Directory: 11.1-rc
 
-Tags: 11.1.0-rc1-native, 11.1-rc-native, 11.1.0-rc1-native-trixie, 11.1-rc-native-trixie
+Tags: 11.1.0-rc2-native, 11.1-rc-native, 11.1.0-rc2-native-trixie, 11.1-rc-native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: 6bce44214bdebec4cf666d60b849f16b52fc0b2d
+GitCommit: 643135e984acf62f729a8e35b16c850e4abe68b5
 Directory: 11.1-rc
 File: Dockerfile.native
