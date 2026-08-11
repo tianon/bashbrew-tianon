@@ -1,4 +1,4 @@
-# this file is generated via https://github.com/tianon/docker-qemu/blob/69f295801f2daa9fbeb57e64f159a9f654cda2d7/generate-stackbrew-library.sh
+# this file is generated via https://github.com/tianon/docker-qemu/blob/6fe3e83db3966a8fe318d93c25350f11777c3f09/generate-stackbrew-library.sh
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon)
 GitRepo: https://github.com/tianon/docker-qemu.git
@@ -36,24 +36,24 @@ GitCommit: 821b34e3ad824a94345f0a34a85c9d31699a07ea
 Directory: 10.2
 File: Dockerfile.native
 
-Tags: 11.0.3, 11.0, 11, latest, 11.0.3-trixie, 11.0-trixie, 11-trixie, trixie
+Tags: 11.0.3, 11.0, 11.0.3-trixie, 11.0-trixie
 Architectures: amd64
 GitCommit: e4d18e4c739ef75f4f68c3e0e5bddb6989923e5a
 Directory: 11.0
 
-Tags: 11.0.3-native, 11.0-native, 11-native, native, 11.0.3-native-trixie, 11.0-native-trixie, 11-native-trixie, native-trixie
+Tags: 11.0.3-native, 11.0-native, 11.0.3-native-trixie, 11.0-native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
 GitCommit: e4d18e4c739ef75f4f68c3e0e5bddb6989923e5a
 Directory: 11.0
 File: Dockerfile.native
 
-Tags: 11.1.0-rc3, 11.1-rc, 11.1.0-rc3-trixie, 11.1-rc-trixie
+Tags: 11.1.0, 11.1, 11, latest, 11.1.0-trixie, 11.1-trixie, 11-trixie, trixie
 Architectures: amd64
-GitCommit: a4b474f4374f8f1c0b18e387078acf8cdfc8c828
-Directory: 11.1-rc
+GitCommit: 6fe3e83db3966a8fe318d93c25350f11777c3f09
+Directory: 11.1
 
-Tags: 11.1.0-rc3-native, 11.1-rc-native, 11.1.0-rc3-native-trixie, 11.1-rc-native-trixie
+Tags: 11.1.0-native, 11.1-native, 11-native, native, 11.1.0-native-trixie, 11.1-native-trixie, 11-native-trixie, native-trixie
 Architectures: amd64, arm32v7, arm64v8, riscv64
-GitCommit: a4b474f4374f8f1c0b18e387078acf8cdfc8c828
-Directory: 11.1-rc
+GitCommit: 6fe3e83db3966a8fe318d93c25350f11777c3f09
+Directory: 11.1
 File: Dockerfile.native
