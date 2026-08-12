@@ -9,6 +9,6 @@ Tags: 152.0.4191.19-1-beta, 152.0.4191.19-beta, 152.0.4191-beta, 152.0-beta, 152
 GitCommit: a31e5d325056ccf2cda2b92a8279e648c3130a1c
 Directory: microsoft-edge/beta
 
-Tags: 152.0.4191.10-1-dev, 152.0.4191.10-dev, 152.0.4191-dev, 152.0-dev, 152-dev, dev
-GitCommit: 0f4899170e3085f213fcba708951c0e8a84cc81d
+Tags: 153.0.4210.0-1-dev, 153.0.4210.0-dev, 153.0.4210-dev, 153.0-dev, 153-dev, dev
+GitCommit: 78b12104e73a86c1d7a9c100c4352909f9557bd7
 Directory: microsoft-edge/dev
