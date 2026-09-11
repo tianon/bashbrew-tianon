@@ -5,10 +5,10 @@ Tags: 152.0.4191.66-1-stable, 152.0.4191.66-stable, 152.0.4191-stable, 152.0-sta
 GitCommit: 64dced703eb415528479fa15829fc638f33fb12e
 Directory: microsoft-edge/stable
 
-Tags: 153.0.4234.19-1-beta, 153.0.4234.19-beta, 153.0.4234-beta, 153.0-beta, 153-beta, beta
-GitCommit: 1d47ee3410762bf6d4351ea3ea458c2f01e06a2b
+Tags: 154.0.4258.9-1-beta, 154.0.4258.9-beta, 154.0.4258-beta, 154.0-beta, 154-beta, beta
+GitCommit: 654e3da68d7fe6a9d703a3b1b97e8ff2cab3c49b
 Directory: microsoft-edge/beta
 
-Tags: 154.0.4251.0-1-dev, 154.0.4251.0-dev, 154.0.4251-dev, 154.0-dev, 154-dev, dev
-GitCommit: cbc7d58ecd232cfd84ff61a0a22dcff08847aa10
+Tags: 155.0.4268.0-1-dev, 155.0.4268.0-dev, 155.0.4268-dev, 155.0-dev, 155-dev, dev
+GitCommit: d42c8ef8247eb9b25f5a448624ee66baa4bb8384
 Directory: microsoft-edge/dev
