@@ -1,12 +1,12 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 152.0.4191.66-1-stable, 152.0.4191.66-stable, 152.0.4191-stable, 152.0-stable, 152-stable, stable
-GitCommit: 64dced703eb415528479fa15829fc638f33fb12e
+Tags: 153.0.4234.32-1-stable, 153.0.4234.32-stable, 153.0.4234-stable, 153.0-stable, 153-stable, stable
+GitCommit: 413e913ae65f9692e7af215d9bc563138d520802
 Directory: microsoft-edge/stable
 
-Tags: 154.0.4258.9-1-beta, 154.0.4258.9-beta, 154.0.4258-beta, 154.0-beta, 154-beta, beta
-GitCommit: 654e3da68d7fe6a9d703a3b1b97e8ff2cab3c49b
+Tags: 154.0.4258.12-1-beta, 154.0.4258.12-beta, 154.0.4258-beta, 154.0-beta, 154-beta, beta
+GitCommit: ede59b7c93a75610c8e325be403dc15023c41668
 Directory: microsoft-edge/beta
 
 Tags: 155.0.4268.0-1-dev, 155.0.4268.0-dev, 155.0.4268-dev, 155.0-dev, 155-dev, dev
