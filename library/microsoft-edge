@@ -9,6 +9,6 @@ Tags: 156.0.4314.8-1-beta, 156.0.4314.8-beta, 156.0.4314-beta, 156.0-beta, 156-b
 GitCommit: cd6b4c28df5f4337dde1d0f4a050b3e201b6619b
 Directory: microsoft-edge/beta
 
-Tags: 156.0.4301.0-1-dev, 156.0.4301.0-dev, 156.0.4301-dev, 156.0-dev, 156-dev, dev
-GitCommit: 0d597555586d8f8fa2bf4f060b1db8c1c95b44d9
+Tags: 157.0.4322.0-1-dev, 157.0.4322.0-dev, 157.0.4322-dev, 157.0-dev, 157-dev, dev
+GitCommit: b03537afad2561ebed3825abeb0d1eb1e36380ac
 Directory: microsoft-edge/dev
