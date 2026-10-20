@@ -1,8 +1,8 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/dockerfiles.git
 
-Tags: 4.95.0, 4.95, 4, latest
-GitCommit: 546e2ce75c9b6ae3b05150d499612386f38b56eb
+Tags: 4.96.0, 4.96, 4, latest
+GitCommit: 74af12b5aa84a33cd0f15ee4b5fa38156e7d792e
 Directory: docker-desktop
 Architectures: amd64, arm64v8
 # ironically, this cannot use BuildKit: https://github.com/moby/buildkit/issues/1267
