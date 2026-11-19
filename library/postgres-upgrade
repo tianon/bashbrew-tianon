@@ -1,6 +1,6 @@
 Maintainers: Tianon Gravi <tianon@tianon.xyz> (@tianon)
 GitRepo: https://github.com/tianon/docker-postgres-upgrade.git
-GitCommit: 86457632e2ba4b6fd878d0e03a14777f5fa041ca
+GitCommit: e029c5d69978852c4a68aebb2b18cf5aefd250b3
 
 Tags: 17-to-18
 Directory: 17-to-18
@@ -14,10 +14,6 @@ Tags: 15-to-18
 Directory: 15-to-18
 Architectures: amd64, arm64v8
 
-Tags: 14-to-18
-Directory: 14-to-18
-Architectures: amd64, arm64v8
-
 Tags: 16-to-17
 Directory: 16-to-17
 Architectures: amd64
@@ -26,18 +22,6 @@ Tags: 15-to-17
 Directory: 15-to-17
 Architectures: amd64
 
-Tags: 14-to-17
-Directory: 14-to-17
-Architectures: amd64
-
 Tags: 15-to-16
 Directory: 15-to-16
-Architectures: amd64
-
-Tags: 14-to-16
-Directory: 14-to-16
-Architectures: amd64
-
-Tags: 14-to-15
-Directory: 14-to-15
 Architectures: amd64
