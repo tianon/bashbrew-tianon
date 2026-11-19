@@ -13,6 +13,6 @@ Tags: blackbox-exporter-0.29.1, blackbox-exporter-0.29, blackbox-exporter-0, bla
 GitCommit: b82d11c94193222e7928be63f712ed38f4c43a64
 Directory: prometheus/blackbox-exporter
 
-Tags: node-exporter-1.12.1, node-exporter-1.12, node-exporter-1, node-exporter
-GitCommit: 267ac22a28683361a62bd348ff4e78fbdcf27271
+Tags: node-exporter-1.13.0, node-exporter-1.13, node-exporter-1, node-exporter
+GitCommit: e148659bde81aea2e5201cda66a459a66c542934
 Directory: prometheus/node-exporter
