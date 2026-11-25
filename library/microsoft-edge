@@ -9,6 +9,6 @@ Tags: 159.0.4402.13-1-beta, 159.0.4402.13-beta, 159.0.4402-beta, 159.0-beta, 159
 GitCommit: 6ed67e8246aebaec80d2c8a50a3b63847e470a43
 Directory: microsoft-edge/beta
 
-Tags: 160.0.4408.0-1-dev, 160.0.4408.0-dev, 160.0.4408-dev, 160.0-dev, 160-dev, dev
-GitCommit: 03bc74e2ab975eac128c77fee61025ae22dc714f
+Tags: 160.0.4416.0-1-dev, 160.0.4416.0-dev, 160.0.4416-dev, 160.0-dev, 160-dev, dev
+GitCommit: 0da8cf72969641544b1b491030749bc94bbe3cf2
 Directory: microsoft-edge/dev
